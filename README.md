@@ -95,6 +95,18 @@ Useful options:
 
 ---
 
+## Why SPY
+
+SPY is the SPDR S&P 500 ETF Trust, an exchange-traded fund that tracks the S&P 500 index of large US companies. It serves here as the measure of how the US stock market reacts to what the Fed Chair says:
+
+- **It reacts immediately.** SPY is one of the most heavily traded securities in the world and trades continuously during the press conference, so news shows up in its price within seconds.
+- **It is cheap to trade.** Its bid-ask spread is usually one cent on a price of several hundred dollars, so the cost of acting on a 30-second signal is small.
+- **It is one instrument for the whole market.** A single price series captures the broad equity reaction, instead of hundreds of individual stocks.
+
+Dividends and other long-term features of SPY don't matter here, because every position lasts only 30 seconds. E-mini S&P 500 futures would work in the same way.
+
+---
+
 ## Data
 
 **Included:** transcripts, bar-level sentiment scores and signals, and `audio/metadata.csv` with the links to the source videos. The press conferences are public statements by a US government agency.
