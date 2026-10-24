@@ -1,0 +1,8 @@
+yt-dlp
+faster-whisper
+numpy
+pandas
+torch
+transformers
+# Alternative to faster-whisper:  openai-whisper
+# Also needs ffmpeg on the PATH (Windows: winget install --id Gyan.FFmpeg -e)

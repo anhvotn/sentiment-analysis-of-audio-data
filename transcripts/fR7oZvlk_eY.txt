@@ -1,0 +1,258 @@
+[  0.1 min] Good day. It's an honor, a true honor to be back at the Federal Reserve, and to take
+[  0.2 min] up this duty at a time of such consequence. I've been especially heartened by the warm
+[  0.4 min] welcome of old friends and new colleagues both, and I've listened closely to my fellow
+[  0.5 min] FOMC members. Per a lot of new ideas, new thinking, and genuine interest in moving the Fed forward.
+[  0.6 min] This week's FOMC meeting exemplified the very best of the Fed's traditions, rigorous
+[  0.7 min] debate, open-mindedness, commitment to mission, responsibility, and accountability for performance.
+[  0.9 min] In this business, they all add up to one thing, getting monetary policy right, or as near to it as we can do.
+[  1.1 min] That is our North Star. My colleagues and I are here to serve our legislative remit, which you've heard
+[  1.2 min] us say before, price stability, and maximum employment, and these objectives guided our business in the
+[  1.4 min] future. As you saw a few moments ago, the committee decided to maintain the target range for the Fed
+[  1.5 min] funds rate at three and a half to three and three-quarters percent in support of the Fed's dual mandate.
+[  1.6 min] The committee also reaffirmed its policy of maintaining ample reserves in the banking system.
+[  1.7 min] Economic activity is expanding at a solid pace, despite elevated uncertainty that owes in part to the
+[  1.9 min] conflict in the Middle East. Productivity go, growth, and capital investment, both strong. Job gains have kept pace
+[  2.0 min] with the workforce, and the unemployment rate has changed a little. We recognize that inflation has been running
+[  2.2 min] well ahead of the Fed's long-stated inflation goal of 2 percent. That's been going on for more than five years.
+[  2.3 min] Persistently high prices are burdened for the American people, but the recent past need not be prologued.
+[  2.5 min] I am pleased to report that members of the FOMC are unambiguous and unanimous. This committee will deliver price stability.
+[  2.7 min] At any institution, a change in leadership is a natural and timely opportunity to reaffirm its mission,
+[  2.9 min] to review current practices, and to consider whether those practices best meet our objectives.
+[  3.0 min] My Fed colleagues and I will be working in close collaboration to ask what changes might improve the conduct of monetary policy.
+[  3.1 min] On that score, you might have already noticed something, a difference in today's policy statement.
+[  3.2 min] It's a bit shorter, a bit simpler, and it dispenses with some older language. That statement just gives you the facts as best we can judge it.
+[  3.4 min] Absent also is so-called forward guidance, which we agreed was not well suited to the current policy conjuncture.
+[  3.6 min] This afternoon, you also received the usual summary of economic projections.
+[  3.7 min] It's been the practice of this committee for participants to submit these projections, and I have encouraged my colleagues to continue to do so.
+[  3.8 min] I, however, have refrained from offering any projections of my own consistent with my long-held views on the SCP, at least as currently structured.
+[  4.0 min] In the median projections, real GDP rises at 2.2% this year, 2.3% next year, and total PC inflation runs at 3.6% this year, 2.3% next year.
+[  4.2 min] The unemployment rate stands at about 4.3%.
+[  4.3 min] The median participant judges that the appropriate federal funds rate to be at 3.8% at the end of this year, and 3.6 at the end of next.
+[  4.5 min] Let me turn now to a few words on a key initiative that we're announcing today.
+[  4.6 min] I'm appointing a task force in each of five areas that are central to the broad conduct of monetary policy.
+[  4.7 min] First, Fed communications. Second, the Fed's balance sheet. Third, our use and reliance on existing data sources.
+[  4.9 min] Fourth, productivity and jobs in an era of transformation. And last, the Fed's inflation frameworks.
+[  5.1 min] These subjects are timely, consequential, and in my view, worthy of a fresh look.
+[  5.2 min] My colleagues and I discussed them with energy and purpose over the last couple of days.
+[  5.3 min] For each of these independent task forces, I'm enlisting some of the very best minds, both inside and outside economics profession.
+[  5.5 min] They will be supported by subject matter specialists from our superb Fed staff.
+[  5.5 min] And they'll have a straightforward charge. Start with first principles.
+[  5.6 min] Ask hard questions. Examined current practice. Consider alternatives.
+[  5.7 min] And ultimately, propose next steps for policy maker consideration.
+[  5.8 min] Since last summer, my colleagues discussed possible improvements in the form and function of Fed communications.
+[  6.0 min] This new task force will build on that effort. And I expect, propose, some well considered changes, including to the SEP I mentioned a few moments ago.
+[  6.1 min] The second task force, the one on balance sheet policy, will review the benefits and risks of the current ample reserves regime and the composition of the Fed's balance sheet.
+[  6.3 min] They will assess alternative frameworks for the conduct and operation of monetary policy.
+[  6.5 min] The third task force, the one on data, will evaluate new information sources and consider methodological changes to improve data gathering.
+[  6.6 min] With the aim of giving policy makers more accurate, relevant, contemporaneous, and perhaps most important actionable information on the state of our economy.
+[  6.8 min] Fourth, the task force on productivity and jobs.
+[  6.9 min] It will survey the pace, the reach, the economic impact, of new general purpose technologies, including AI, and explore the implications for the Fed in pursuit of our employment and inflation mandates.
+[  7.2 min] The last task force, the one on inflation frameworks.
+[  7.2 min] That'll examine the drivers of inflation, first principles, in a way the full range of ideas for delivering price stability and the changing economy.
+[  7.4 min] You'll hear quite a bit more about these task forces and this overall initiative in the coming weeks, enough for now to make a simple statement.
+[  7.6 min] Each task force will serve an objective shared by everyone in the system, shared by everyone around that table that I sat with over the last couple of days.
+[  7.7 min] A Federal Reserve that is clear-eyed about its mission, fit for purpose, and focused on the future.
+[  7.8 min] And with that, I appreciate your attention. I'm happy to take your questions.
+[  7.9 min] Power, Schneider.
+[  8.0 min] Hi, Chairman, how are Schneider's rotors? Good to see you again and welcome back.
+[  8.1 min] This is a lot to be putting in motion so fast. What is the timeline you have in mind for each of these?
+[  8.2 min] So, I think it will depend on the task force. It also depends on the urgency in which we need clear answers.
+[  8.3 min] My expectation, I'm still in the business of recruiting and finalizing them, my expectation is the task forces will begin work in the next couple of weeks.
+[  8.5 min] And we'll start to get some more information from them, some more framing of how they see things starting in the fall end, hopefully most if not all of them concluding by year end.
+[  8.7 min] And just specifically on the inflation framework, you talk about first principles.
+[  8.8 min] Does this include a review of the 2% target itself? You've mentioned that things to the right of the decimal point don't matter.
+[  8.9 min] Should this be starting from a premise that 2% as a point estimate is too strict?
+[  9.0 min] Let me break that in two pieces. First on the inflation framework review, their remit is what are the drivers of inflation?
+[  9.2 min] What's the federal responsibility for inflation? In part, how do we measure inflation? But that'll overlap with my data group.
+[  9.3 min] On the 2% inflation objective, that is the Federal Reserve's long held objective of 2%.
+[  9.4 min] You've heard me say before, I tend to focus on the left of the decimal point. Well, the 2 is the left of the decimal point. For now, 0 is to the right.
+[  9.5 min] I see no reason until we have reestablished our commitment and ability to deliver on the 2% inflation objective to revisit that.
+[  9.7 min] So that will be outside the scope of what we're taking on.
+[  9.8 min] Colby.
+[  9.8 min] Thank you so much. Colby's within the New York Times. Even the past said that inflation is a choice and in the policy statement, it includes this pledge to deliver price stability as you've reiterated today.
+[ 10.0 min] The looking at the SEP, the bulk of your colleagues expect core PCE to run around 3.3% by year end, and for the 2% inflation target not to be reached until 2028.
+[ 10.2 min] So I'm curious how patient you think the Fed can afford to be at this juncture in terms of waiting for one-time inflation waves to wash through and for lying inflation to step down after so many years of inflation running above target.
+[ 10.4 min] And under what circumstances you would support the Fed taking some action and raising rates?
+[ 10.5 min] Sure. So quite a bit there. Let me try to break that into pieces. First, we have the capability and commitment to deliver on our price stability objective of 2%. That's exactly what we're going to do.
+[ 10.8 min] In the Fed's review of its strategy over the last any number of years in January, the Fed, including the strategy that we're still bound by, the Fed statement says that inflation is primarily determined by monetary policy. You bet it is.
+[ 11.0 min] I've said for years, inflation is a choice. You bet it is. And today I'm announcing that this committee unambiguously and unanimously have decided we are going to deliver on that.
+[ 11.2 min] The rest of your questions sounded like encouragement for me to give forward guidance. We've dropped forward guidance.
+[ 11.3 min] Some along the committee, I think dropped it. I suspect from our discussion last couple of days because they said at this moment in time, it doesn't feel as though providing forward guidance is right.
+[ 11.5 min] Others have, I'd say, different views and think as a general proposition, forward guidance isn't the business we should be in.
+[ 11.7 min] But that will be taken up by the task force on communications and my policy maker colleagues. We're going to listen hard to what the experts say and make our own decision.
+[ 11.8 min] But I can't give any forward guidance about what we're going to do next. The good news is we'll be meeting in six weeks.
+[ 11.9 min] So just following up, I guess on the current policy settings, then I am curious how restrictive you think things are at the current moment given the flow of data that we've seen and forecasts that are coming down the pipeline.
+[ 12.2 min] I've heard characterizations both inside and the Fed about that. I'll give you my own. It's uneven.
+[ 12.3 min] If I look at the housing markets as one example, Fed policy isn't the single determinant of the state of a housing market, but broadly, I would say their Fed policy appears to be somewhat restrictive.
+[ 12.5 min] I would have a hard time managing to say those words if I were to see what's happening in financial markets.
+[ 12.6 min] So I'd say it's uneven. That's perhaps a function of different transmission mechanisms of monetary policy, whether monetary policy is coming from our interest rate tool or a balance sheet tool.
+[ 12.8 min] But the good news we have a task force on that too, and the balance sheet task forcefully looking more at that subject.
+[ 13.0 min] You said you don't like forward guidance. You dropped it from the statement this time, but with the dot plot nine members suggested that they want a rate increase by the end of the year, and the markets have taken that as forward guidance.
+[ 13.2 min] And so what does this mean in terms of how you guide the markets and in terms of what the dot plots future is?
+[ 13.4 min] I'm going to have to give you the same answer I gave to Miss Smith. We've got a task force for that. I'll give you a little bit more.
+[ 13.5 min] I reviewed the dot plots, and when I saw the submissions, I noted that all the submissions were coming in with pencils, you know, those kind of with the big erasers.
+[ 13.7 min] That's to say that I think my colleagues around the table when they submitted their dots understand the world is changing quite quickly, and they didn't feel bound by them six weeks from now or six days from now, and in the event that their circumstances change.
+[ 14.0 min] I'll note a couple of other things. What I heard around the table was as they submitted their modal forecast, their modal forecast to be clear weren't this was more likely than not.
+[ 14.2 min] This was this was more likely than their other scenarios. So I didn't hear tons of conviction. What I heard was the kind of humility that I think we should have.
+[ 14.4 min] I did not submit a dot for me. It's not helpful in the conduct of policy. I suspect by year end, as I mentioned in my opening statements, there'll be a review about communications broadly press conferences dots meetings and the like transcripts minutes.
+[ 14.7 min] This will be part of that. I don't want to prejudge the outcomes there, but I'm pretty open-minded about what they could be, and I was just incredibly impressed over the last couple of days.
+[ 14.9 min] My colleagues over the last two days and frankly the first three weeks I've been here, they've been very open about changes changes and easy changes filled with risk, but our number one goal is to get monetary policy right.
+[ 15.1 min] The way to get monetary policy right is to deliver on the remit that Congress gave us, to deliver on price stability, and there was no disagreement on any of those points.
+[ 15.3 min] At the risk of possibly getting the same answer about task forces, communications, what is your feeling about these news conferences? Are you going to continue one after every meeting? Do you think find them useful? What is the future for the way Kevin Warsh will communicate?
+[ 15.6 min] Well, this one's probably got another 15 or 20 minutes in it, so I don't want to prejudge the outcome. Press conferences can be a very useful way to communicate with households, businesses, and more broadly through using the likes of you.
+[ 15.9 min] I had a great old mentor named George Schultz and his mantra was press conferences are useful, but when you have one, you want to make sure you have something important to say.
+[ 16.1 min] Today, I think we had something important to say about our commitment to deliver on price stability, our commitment to rethink practices with an eye of moving the Fed forward, and to give you and the American people a sense that these aren't idle thoughts, these are concrete thoughts that we're going to seek out the best minds.
+[ 16.4 min] Both the best thinking inside of the Federal Reserve, and the best people I know in business, and economics, and the academy, and technology, and the rest to share their views.
+[ 16.5 min] That's what we're going to be doing here, the pursuit of truth. I think we're going to come up with some new and interesting things. We made some changes today. I expect more changes to come, and some of those might well be worthy of a press conference.
+[ 16.9 min] Chris, could you give us a sense of how you see inflation more in the long term? I know you may not want to comment on the ups and downs, but is this mainly driven by energy prices in the Iran War at this point, or do you have any concerns about underlying inflation pressures in the economy? Thank you.
+[ 17.2 min] So I can't do much better than the committee just did, so let me restate it. Inflation remains elevated relative to the committee's 2% goal in part reflecting supply shocks that have driven price increases in certain sectors, including energy.
+[ 17.5 min] That paragraph goes on to say, but to be clear, the Federal deliver price stability. My own judgment is the committee spent quite a bit of time, not just in two days, but over iterations of a couple of weeks.
+[ 17.7 min] That's what we're prepared to say about inflation, but the commitment to deliver is strong, unanimous, and unambiguous, and that's, I think, an important message we've missed for five years, and we're going to fix that.
+[ 17.9 min] Great, and then just on the data task force and everything else, generally speaking, I think people feel the Fed looks at everything already, certainly that was the sense from before.
+[ 18.1 min] What's, is there data that you feel is not given enough weight? I mean, you mentioned the trim demean in the past, but again, that's well known to certainly most Fed members.
+[ 18.3 min] So what is that task force looking at, and what might be the, I mean, I know you don't want to prejudge the outcome, but are there examples of data that you expect might be given more weight?
+[ 18.4 min] Thank you.
+[ 18.5 min] So you're answering my question, so let me say I don't want to prejudge the outcome. I also don't want to say too much about what they're going to do because I still have a phone call or two to make before I've nailed down the people that are doing that.
+[ 18.7 min] I'm interested with the outside experts view is on the subject. I'll say this generally.
+[ 18.8 min] Most of the data that central bankers and other government officials in the United States consume come with old fashioned survey methods.
+[ 19.0 min] A national accounts of what the US economy looks like. It looks very little like the US economy in 2026.
+[ 19.1 min] Survey methods that don't have response rates that we need asking questions that might have been quite applicable a generation ago that are less applicable now.
+[ 19.3 min] So even inside of official statistics, I would be open minded if the task force and our own best thinking had recommendations how those official statistics can be brought up to a standard of our time using new analytic methods.
+[ 19.5 min] I'd also say this almost every private company CEO that's running his or her business are doing so with real time information that isn't subject to much revision.
+[ 19.7 min] That is telling them what just happened at that very moment. As you know, there are normal long and variable lags in the conduct of monetary policy.
+[ 19.9 min] What we're really interested in is what's happening right now. What we're less interested in is echoes of history and you're hearing from my answer that some of the data that we receive that we're waiting on the first Friday after the month of payroll index or something else.
+[ 20.2 min] That might be an echo of history that's quite useful on its third revision. We need to take those error bounds down because we have to make hard decisions in real time.
+[ 20.3 min] I'm really open minded that there is a lot of new data sources that we can learn from the private sector, from reforms in the official sector and new analytic techniques that are far more refined than asking a simple question about whether something was core or non-core.
+[ 20.7 min] Thanks. Welcome, Mr. Chairman, everyone with Fox Business. So if you don't give a lot of ongoing forward guidance, want the markets have more volatility and shouldn't Americans have more access into what you're thinking going forward?
+[ 20.9 min] So I think financial markets perform best when they react to incoming data. I think the financial markets work less efficiently when they ask a question, how will the Federal Reserve react to that incoming information?
+[ 21.2 min] The more that markets are paying attention to what's happening in the real economy, deciding what's good data and what's less good data, the more financial markets can price what they believe is the most likely and what are the tail risks?
+[ 21.5 min] Financial market prices are probably the most important source of information to guide central bankers.
+[ 21.6 min] But when all the financial markets are doing is reflecting back what we've said, then we're taking the most important source of information and we're being blind to it.
+[ 21.8 min] I'd like us to create a system where those blinders come off, where markets are following data that they efficiently think is reliable and they'll be watching data, will be watching data, they'll come with better information through market prices to us.
+[ 22.0 min] We can make more informed decisions with ultimately the goal that I said at the outside, deliver on the price stability objective that Congress told us to do and that we've got to get in the business of doing.
+[ 22.2 min] If I could take you in the meeting a little bit, this is your first meeting that the board members seem fairly hawkish when you listen to it in general, when you listen to what they're saying.
+[ 22.4 min] Was there any discussion of a rate cut going forward today?
+[ 22.4 min] There was one proposal on the table. There was no discussion of any other proposals. The discussion on that proposal, I would say, was quite limited.
+[ 22.6 min] The group was unanimous and known ambiguous on it. It has been the practice of this central bank and others to have a range of alternatives.
+[ 22.8 min] Today we had one. I thought it further discussion deepened it and made it clear what we needed to do and how we needed to deliver.
+[ 23.0 min] I wouldn't prejudge what happens in the future, but there was only one big subject for us. We took it on. We had a good family fight on it for a couple of days and we ended up I think in a better place.
+[ 23.2 min] Claire.
+[ 23.2 min] Thanks a lot, Claire Jones, financial times. Come into this blind reading this very nice short statement that I think we've all appreciated in the room.
+[ 23.4 min] One might wonder why you didn't raise rates today considering what you're saying here about the risks to US inflation and your mandate.
+[ 23.6 min] I guess why not and what would you need to see in order to get to that place? And secondly, on your task forces, are there any best practices of the central banks that you'd consider looking at?
+[ 23.8 min] Thank you.
+[ 23.9 min] I'm glad there on the practice of giving you two questions because my answer to your first question was to be very curt. I've got nothing more to say than the statement itself.
+[ 24.0 min] And to the point of the question I got before, market reactions to what we say unfiltered I think is more helpful than having delivered a statement than improvising further upon it.
+[ 24.2 min] Best practices of task forces. This is subject I've thought some about. I've been on a task force or two in my life. Best practice. Find the best minds.
+[ 24.4 min] Ensure that the task forces have a range of people both by backgrounds and predispositions. So they too can have a bit of a family fight.
+[ 24.6 min] Make sure when you establish a task force that the group that's going to be the recipient of the information feels as they've got some equities in it too.
+[ 24.7 min] That's why we're looking for haven't done the final roll call. Some of the most significant talent we have in the building and across the reserve banks on each of these.
+[ 24.9 min] And in some sense, seconding them to this group for a period of some number of months so that the leaders of the task force know what the most analytical central bank in the world thinks about that.
+[ 25.1 min] They can reflect on it in a final best practice. We're not outsourcing decisions to anybody.
+[ 25.2 min] Administration's past and present reserve banks have chosen a group of 19 people around the table. These will be our decisions. We can agree to some of the recommendations disagree with others have a good family fight about it.
+[ 25.5 min] But what comes from them will I hope and believe make the discussion we have internally better stronger.
+[ 25.6 min] More of a dialectic so that we can finally deliver on that price stability objective.
+[ 25.7 min] Just a quick follow up on your your markets point. If you look at two year yields, they're really suggesting that markets think more tighten and is needed.
+[ 25.8 min] Would that be your read on what the two year yield is saying as well?
+[ 25.9 min] We were in such a good place. This is why we don't do third questions I presume. I'm not going to offer any commentary on market reaction over the last 30 or 60 minutes.
+[ 26.0 min] What we've given markets is a new chapter for the central bank. Some fresh thinking. What we've given markets and households and businesses I think is a commitment to ask ourselves hard questions such that we can deliver on the promises that we've made before.
+[ 26.4 min] This is a lot of change for financial markets to digest. I wouldn't be particularly intrigued by how they react in the first several minutes or even for several days.
+[ 26.6 min] What I think is most important is that financial markets and at least as important. Households and businesses know that this central bank will deliver on price stability.
+[ 26.8 min] Brian.
+[ 26.8 min] Hi there, Chairman Worship. Brian Chung with NBC News. Thank you for taking our questions. So when you say that we've dropped forward guidance for the layperson that might sound like the Fed's going to say less or offer less insight into where their borrowing costs might go.
+[ 27.0 min] So for the person that maybe you might run into at the grocery store where the price tags are rising at a faster pace than their wages at the moment.
+[ 27.1 min] How would you explain it to them? I don't know if task force might be answered there, but how would you kind of communicate this era, this chapter of the Fed?
+[ 27.2 min] If I told somebody in the milk aisle that I had a task force for that, I think that would be doing a very poor job. So I appreciate it.
+[ 27.4 min] If I saw somebody in the grocery store, what I would say to them is that we cannot have a very significant effect on particular prices.
+[ 27.5 min] The price of oil in the markets today or even the price of a dozen eggs, that does not have first order consequences to what we're doing.
+[ 27.7 min] But we do have a really important job there. And it's to make sure that those changes in oil or beef or eggs or milk don't broaden in the economy.
+[ 27.8 min] Don't have second and third order effects. That's our job. That's our commitment. That's our capability. We're going to deliver on it.
+[ 28.0 min] And then is the Fed's relationship with the Treasury also under review? There was the normal breakfast meetings with the Treasury Secretary.
+[ 28.1 min] Is that something you intend to continue doing and have you had conversations with the President since you're swearing it?
+[ 28.2 min] So on the President, I don't have anything for you. With respect to the Treasury Secretary, he has been posting pictures of our breakfast.
+[ 28.3 min] So I don't think I can deny that. The long tradition at the central bank is that the Fed chairman and the Treasury Secretary meet weekly.
+[ 28.5 min] I think we've pulled off three of those so far. I believe he's overseas this week. So this will be the exception of the rule.
+[ 28.6 min] I think they're very useful discussions.
+[ 28.6 min] The central banks, objectives and our roles and responsibilities are quite delineated from the fiscal authorities.
+[ 28.8 min] And in my view, monetary policy is independent in the conduct of what we do. But that doesn't mean we're not interested in what's happening with the fiscal authorities.
+[ 28.9 min] The way I think about it is this central bank needs to have a wide lens but a narrow remit.
+[ 29.0 min] We need to be quite interested what's happening in the world. I won't be breaking any news here to suggest I'm quite interested what's happening in the Middle East.
+[ 29.2 min] That does has some effect on our day job. It doesn't mean it's our responsibility. But I think we're going to keep a wide lens.
+[ 29.3 min] And my meetings with Secretary Besson to this point have helped widen that aperture. So we're aware of things that could affect our day job even if it isn't.
+[ 29.5 min] Steve.
+[ 29.5 min] Steve Lee has been CNBC. Mr. Chair, thank you. Mr. Chairman, thank you for taking my question.
+[ 29.6 min] You had said in the before you became chairman that you thought productivity was a reason why the Federal Reserve could lower interest rates.
+[ 29.8 min] Do you still believe that to be the case?
+[ 29.8 min] So the committee had a discussion of productivity today. AI came up. The way I thought about it before and socialized with the group is that artificial intelligence, the latest generation of general purpose technology, is perhaps as important change in the economy and business and households that we've had in my adult lifetime.
+[ 30.3 min] It is filled with both a huge opportunity and with risks. I take both of those very seriously.
+[ 30.4 min] You may have heard me say before that AI is shorthand perhaps for American ingenuity. That doesn't mean that it's going to be easy. That certainly doesn't mean it's not going to be disruptive.
+[ 30.6 min] But over the long term, my conviction, and I heard quite a bit of support for this around the committee today, the United States is a winner as we go down this.
+[ 30.8 min] The United States is ultimately going to be better off in that. Now to bring that back to the conduct of policy, timing, scale, speed, implications for output and employment, it's one of the things we have a task force to do.
+[ 31.1 min] If you don't mind to follow up from the other side, which is that when you look at the strong job growth that's out there, the elevated inflation, GDP seems to be going pretty good and the stock market seems to be soaring.
+[ 31.3 min] Do you look around this economy and see the funds right being restrictive?
+[ 31.3 min] So that's your second question. I'm going to give the same answer that I gave before. I'd say as I think about the conduct of policy, what matters is what's the effect of policy?
+[ 31.5 min] Not what do we say, but what happens? And the best way I can describe is done even. I do see some restrictiveness in things like housing. It's hard to use those same words anywhere else.
+[ 31.7 min] I'll just make one other point. You talked about one of our dual mandates and the employment side. I don't believe that we have a cruel choice.
+[ 31.9 min] I don't share the view that was expressed a few generations ago that Federal Reserve Chairman show up at a podium like this and say you got to choose.
+[ 32.0 min] And you're going to have to decide whether you're willing to tolerate higher inflation to put more people at work. I don't believe in that.
+[ 32.2 min] What I believe is if we do our job, we can make strong growth, low prices and strong employment, mutually compatible.
+[ 32.4 min] And so what you heard from the committee today is we've got some work to do on the price stability from Nick.
+[ 32.5 min] Thank you, Nick Timmeros with Wall Street Journal. Chairman Worsh, you've said repeatedly credibility is earned by delivering. If credibility requires delivering, the move would be to tighten or at least to threaten to.
+[ 32.8 min] Now you didn't do that today. Why not?
+[ 32.8 min] That judgment you expressed was not expressed by any of the 19 people around the table. We'll be meeting in six weeks. We'll take up the issue again.
+[ 33.0 min] And if I could ask about AI, the build out is generating enormous demand right now. CapEx, data centers, power. The productivity payoff may be further out. So in your judgment today is AI adding more to demand or to supply.
+[ 33.2 min] It's a good question. At the central bank in an economics profession, what we spend most of our time doing is counting demand. It's easier. We can see it, we can count it, we can check it, we can revise it.
+[ 33.5 min] What we do though is we infer supply. You'll notice in the second paragraph of what one of your colleagues described is a very short statement.
+[ 33.7 min] We have a sentence on the demand side and a sentence about the same length on the supply side. They're both important. Just because we can count one better than the other doesn't mean we're going to favor one more than the other.
+[ 33.9 min] With respect to AI and the growth of data centers and infrastructure around it, we're counting the demand side and it is no doubt showing up in GDP figures.
+[ 34.1 min] We can be less certain when we infer the timing and extent of the growth in the supply side. It may well be an intuition the supply side is going to expand but it'll take longer. I just described it this way. There's a race between supply and demand.
+[ 34.3 min] Milton Friedman says that the only thing we know about economics is that there's a supply line and demand line they ultimately cross. When they cross and what are the implications for policy, the good news for you is we have a task force for that.
+[ 34.6 min] Andrew.
+[ 34.6 min] Thanks, Mr. Chairman. It sounded like on the task force on data that you were looking at overhauling or completely overhauling the system of national accounts the way the government minds the economy. Is that your ambition?
+[ 34.9 min] In a word no. In a few words, much of this data gathering happens in other government agencies to which we owe a tremendous amount of respect, a tremendous amount of deference.
+[ 35.1 min] But in the course of this we come up with recommendations which Fed staff have already begun to develop about things that they could be doing to help inform us as policymakers.
+[ 35.3 min] We're not going to hesitate. Again, I don't want to try to delineate the four corners of the research of the task force on data but I do think there will be a review of official statistics and at least as important of you of bringing the best practices from the private sector and new analytical tools made possible by AI so we can forge these into a fabric that gives us better real time information.
+[ 35.7 min] So as I mentioned before, when we're making decisions, we're making decisions that we'd say are real contemporaneous data, not data that we call contemporaneous that's really an echo of history.
+[ 36.0 min] Thanks. The other question I wanted to ask is related to the building renovations, are you considering any changes to the renovations, the projects, just in light of the fact that they became kind of a political football in the last year?
+[ 36.2 min] I heard something about that. I don't think I'm breaking any news but my view when you show up at a new institution, you should go meet with the Inspector General just as a matter of good practice.
+[ 36.4 min] It's a practice that I hope to continue. I've had one meeting with the Inspector General and he told me what I believe the world knows which he'll be coming out with a report on the building and the building projects at some point later this summer.
+[ 36.7 min] And I'll be interested in reading the report. From my perspective with a forward-looking glance, is there anything that we can be doing or should be doing from this moment until the completion of the project to do what we can to be good stewards of taxpayer money and make sure that we're delivering on the promises that we made.
+[ 37.0 min] So more work to do. You might not be surprised in the first few weeks. I've been somewhat preoccupied on other matters, but I promised it to get to the full breath of the Fed's tasks in the weeks ahead.
+[ 37.2 min] Victoria.
+[ 37.3 min] Hi, Victoria, Guida with Politico. So I know that you did not submit a forecast, but you are the person who is authorized to speak on behalf of the FOMC.
+[ 37.4 min] So I'm wondering if you could tell us in the SEP the increase in the expectations for inflation is that all because of the Iran more what was the discussion around what the expectations for inflation being higher and and also potentially growth being slower.
+[ 37.7 min] So my read of what I heard in the room reflected I must admit in the SEP is half of my colleagues thought the policy rate given all those developments should be at this level or lower between now and your end and the other half thought higher.
+[ 38.1 min] That 19th voter was me and I didn't submit one. There's a range of views on the questions of first and second round of facts. No resolution or conviction, but we'll be meeting again in six weeks.
+[ 38.3 min] I think we're going to know more than and I think that my colleagues are very attentive to incoming developments between now and then.
+[ 38.5 min] Can I just quick follow up on the SEP. You said that you're still encouraging your fellow committee members to submit forecast even if you're not doing it.
+[ 38.6 min] So what do you think is the benefit of them doing it even if you don't?
+[ 38.7 min] That's the commitment that the FOMC made and it's a commitment that I hope we live up to.
+[ 38.8 min] The commitment we made was to deliver price stability. I expect us to live up to it.
+[ 38.9 min] By the time we get to the end of this year, as I mentioned, I wouldn't be surprised if there was a new communications framework that were some changes the SEP.
+[ 39.1 min] That's a committee discussion, a robust discussion. I think we'll have it.
+[ 39.1 min] I believe we're going to come to a better mix of communications to deliver on what we promised.
+[ 39.3 min] But I wouldn't want to prejudge what those are, but between now and then I would continue to expect colleagues to submit their SEPs.
+[ 39.4 min] Some of them, I think, believe that the practice is currently structured is okay.
+[ 39.5 min] But I heard a lot of interest in real reform. Generally about all these topics.
+[ 39.6 min] You didn't ask it, but I'll answer. It was a pretty gracious couple of days.
+[ 39.7 min] And it's been a pretty warm few weeks. The institution wants to figure out how we can do better.
+[ 39.8 min] The institution's going back to first principles. And I'm encouraged that what we've done in the statement, what we're thinking about doing with respect to the SEP,
+[ 40.0 min] that instinct towards a new chapter is a real one. And by the end of the year, I hope we can put some points on the board both in form and in substance of delivering.
+[ 40.2 min] But it ended for the last question.
+[ 40.2 min] Thank you, Mr. Chairman. Andy Karin, Bloomberg News. Could you guide us through, please, some of the principles that guide your own reaction function,
+[ 40.4 min] and tell us a little bit about kind of conditions that you think when the Fed should respond?
+[ 40.5 min] It's going to be a very unsatisfactory answer to the final question.
+[ 40.5 min] The Federal Reserve has a lot of responsibilities, not just in monetary policy, but in supervision and regulation, consumer affairs and payments.
+[ 40.7 min] My own view is our credibility comes from delivering on what we're saying we're going to do across everything we do.
+[ 40.9 min] I've devoted more time in my first three weeks to monetary policy than all those things.
+[ 41.0 min] But the more we deliver on our promises as good supervisors and good regulators, the more benefit we get, the more credibility enhancement we have in monetary policy.
+[ 41.1 min] When we deliver on our price stability objectives, which we will, the American people will feel as though the hardships that they've been living through in part because of inflation last five years on the rearview mirror,
+[ 41.4 min] and that credibility will have dividends across what we do, and the institution will come to press conferences like this.
+[ 41.5 min] Always with an impetus to reform, always with an impetus to do better, but we're going to put some points on the board.
+[ 41.6 min] Mr. Karin, that's about the labor data in recent months. How would you sum up the labor market right now?
+[ 41.7 min] Do you see it as stable and potentially as the worst of inflation? Thank you.
+[ 41.7 min] So the committee, if I were to try to capture how the committee thought about it, the committee thought that the labor markets were stable.
+[ 41.9 min] There were some people around the committee who thought that it was trending better than that. Trends matter more than data points.
+[ 42.1 min] What's happening over three or six months matters more than any one data point, any one data release, and I'd say the job's data has been moving in a good direction.
+[ 42.3 min] If I heard one other thing around that subject over the course of the last couple of days, what I heard was that strong productivity-led growth is not something that we fear but something we embrace.
+[ 42.5 min] Thank you all very much.

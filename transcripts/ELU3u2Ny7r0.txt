@@ -1,0 +1,266 @@
+[  0.1 min] Good day.
+[  0.1 min] In the meeting just concluded, the FOMC decided to raise the target range for the federal
+[  0.2 min] funds rate by a quarter of a percentage point, to three and three quarters to four percent,
+[  0.3 min] in support of the Federal Reserve's dual mandate.
+[  0.4 min] The committee is continuing its policy of maintaining ample reserves in the banking system.
+[  0.5 min] As noted in the policy statement released just a short while ago, economic activity is expanding
+[  0.6 min] at a solid pace. While uncertainty remains elevated, owing in part to geopolitical developments,
+[  0.7 min] domestic spending has been resilient. Productivity growth is strong, and capital investment
+[  0.8 min] is robust. Job gains have kept pace with the workforce, and the unemployment rate has changed
+[  1.0 min] little. But inflation remains elevated. Today's policy action will support a timely return
+[  1.1 min] to the committee's 2 percent goal. This committee will deliver price stability.
+[  1.2 min] Now getting to some further detail. Our decision comes at a time when the American economy
+[  1.3 min] appears to be strengthening. New hiring, private sector earnings, business capital investment.
+[  1.4 min] Each of these markers has improved in recent months and is pointing in a good direction.
+[  1.5 min] Credit flows have been robust, particularly for businesses.
+[  1.6 min] And as I said at the policy symposium in Jackson Hole, I would be hard pressed to describe broad
+[  1.7 min] financial conditions as restrictive. This view was widely shared by the committee. So we removed
+[  1.9 min] a dose of accommodation. Consider the geopolitical landscape of shocks and uncertainty,
+[  2.0 min] and you begin to appreciate the resilience of the U.S. economy. Given that resilience and the potential
+[  2.1 min] for even greater performance, an attitude of optimism is exactly what I heard inside the FOMC
+[  2.2 min] these last two days. One basic sign of strength is the state of America's labor markets.
+[  2.4 min] The jobless rate remains low at around 4.1 percent, and both job openings and weekly hours have been
+[  2.5 min] increasing. Unemployment claims on a four week moving average are running at levels consistent
+[  2.6 min] with full employment. So the labor side of the Fed's congressional remit is in good shape.
+[  2.7 min] Yet for more than five years, inflation has been running above target.
+[  2.8 min] So our predominant focus is on the price stability side of our mandate.
+[  2.9 min] The plain fact is that inflation is too high and has been for too long.
+[  3.0 min] This summer's inflation readings do not tell me that underlying trends have meaningfully improved.
+[  3.2 min] Based on the most recent CPI and PPI data, the 12-month change in total PCE prices likely was
+[  3.3 min] around 3.6 percent in August. Core PCE and CPI prices running at about 3.2 and 2.4 percent respectively.
+[  3.5 min] Too many categories are still posting increases above 3 percent on both a six and 12-month basis.
+[  3.6 min] I noted in Jackson Hole that overall commodity prices also bear watching.
+[  3.7 min] And over the intermeeting period, the prices of many of these key inputs have risen.
+[  3.8 min] Since my first FOMC meeting as chairman in June, my colleagues and I have been unequivocal
+[  3.9 min] in our commitment to price stability and to our 2 percent PCE inflation objective.
+[  4.0 min] At our July meeting, we all agreed that inflation remained too high,
+[  4.1 min] and we expressed our joint readiness to act as circumstances might require.
+[  4.2 min] And a good majority of my colleagues and I thought the wiser course then would be to await new
+[  4.3 min] information in the intermeeting period. Last month in Wyoming, I expressed my commitment to a
+[  4.5 min] action. We must be confident that underlying inflation is moving to our objective,
+[  4.6 min] clearly and at sufficient speed. Today, the FOMC decided that this standard has not been satisfied.
+[  4.8 min] The committee's unanimous vote shows our resolve to achieve price stability on a timelier basis.
+[  4.9 min] We aim to ensure that credit and financial conditions are consistent over time with our mandate.
+[  5.0 min] That relative price changes in some sectors of the economy do not broaden.
+[  5.1 min] That inflation compensation in market prices stays low.
+[  5.2 min] And that inflation expectations remain well anchored.
+[  5.3 min] This afternoon, you also received the summary of economic projections.
+[  5.3 min] It reflects the views of my colleagues on the committee.
+[  5.4 min] But as in June, I have not offered a projection of my own.
+[  5.4 min] But like in June, I said I would faithfully discharge the summary of their projections, so here goes.
+[  5.5 min] In the summary's median projections, real GDP rises at 2.3 percent this year, 2.4 percent next year.
+[  5.7 min] Total PC inflation runs at 3.7 percent this year and falls to 2.3 percent next year.
+[  5.8 min] The unemployment rate holds steady at about 4.1 percent.
+[  5.9 min] The median participant judges that the appropriate federal funds rate to be 4.1 percent
+[  6.0 min] at the end of this year and to remain there next year.
+[  6.1 min] Inflation risks are to the upside while labor risks are roughly balanced.
+[  6.2 min] In my meetings these last few weeks, in Jackson Hole, in Asheville at the G20 meeting which the US hosted,
+[  6.3 min] at a central bank conference in Basel, it was evident that most advanced economies
+[  6.4 min] are facing price pressures. Their central banks are making their own judgments consistent with
+[  6.5 min] their own remits. Our decision today reflects our best judgment in service to our remit.
+[  6.6 min] The Fed has a role in sustaining the economic progress happening in America right now
+[  6.7 min] and the rising opportunities that come with it. Those who are least well off
+[  6.8 min] have the most to gain from a durable expansion, a solid labor market and stable prices.
+[  7.0 min] We at the Fed are on wavering in our vital and straightforward purpose,
+[  7.0 min] full employment and price stability and a thriving American economy that sets the standard for
+[  7.2 min] the world. And with that, I'll take a few of your questions.
+[  7.3 min] Chair Worsh, thank you for doing this. I'm Richard Eskibito with CVS.
+[  7.4 min] Let me navigate over my questions. You know, a quarter point rate hike does not reopen
+[  7.5 min] the straight of poor moves and so I wonder how you think these smaller rate hikes will be effective
+[  7.6 min] when it can't necessarily address the energy supply side of inflationary pressures.
+[  7.7 min] It's a good question, Richard. We cannot affect any individual price, whether it be oil prices,
+[  7.8 min] whether it be foodstuffs at the grocery store, but what we can do and we'll do is ensure that any change
+[  7.9 min] in relative prices don't broaden out, don't have second and third order effects in the economy.
+[  8.0 min] That's what we're tasked to do and that's what we will do.
+[  8.1 min] Thank you, Colby Smith and The New York Times. When the Fed starts raising rates, it generally
+[  8.2 min] follows with a sequence of hikes. Is there anything different in today's assessment of the economic
+[  8.3 min] conditions that would suggest that the typical pattern does not apply? And I guess second to that,
+[  8.4 min] what impact do you expect higher rates to have at this juncture if the bulk of what is keeping
+[  8.5 min] inflation elevated is stemming from supply shocks? So we're trying to get to more people. So I
+[  8.6 min] think Colby, this won't surprise you. I'm not in the forward guidance business. The decision we
+[  8.7 min] made today was a sober decision, serious decision, responsible decision, one that we have been preparing
+[  8.8 min] for and thinking about in my 110 or 20 days here. You heard from other people in the dots effectively,
+[  8.9 min] what their forecasts are. I'm not going to prejudge any future decisions we make. You might have
+[  9.0 min] heard me saying Jackson Hole, I committed to a discipline set of principles. I committed to look
+[  9.1 min] outside the window and see what I can observe. That's what I did in Jackson. That's what we did today.
+[  9.3 min] Thank you, Mr. Chairman. Edward Lawrence from Fox Business. So the market priced in a 90%
+[  9.4 min] chance of a rate hike today. You don't want the Fed to lead the markets. Was this a market-led
+[  9.5 min] rate hike and then with that the bond yields are going up. That's one of the indicators. Is debt part
+[  9.6 min] of that issue? So I've said this before. I'll repeat it. The Fed has an enormous amount of power.
+[  9.7 min] These are decisions we make. But getting the understanding right between financial markets and the
+[  9.8 min] Fed is a balance that I've long thought could be better struck. We made this decision today based on
+[  9.9 min] our assessment of the situation, based on our assessment of the trajectory for employment,
+[ 10.0 min] based on our judgment on the strength of the economy. Sometimes the market tries to pre-judge our
+[ 10.1 min] outcomes. I'll observe market prices and see what they have to say, but today was our decision.
+[ 10.4 min] Elizabeth. Thank you so much. Elizabeth Shullsley with ABC News.
+[ 10.5 min] Big picture. I wonder if you could tell us just what will this move today actually do for American
+[ 10.6 min] consumers and have to ask, what is your message here to President Trump who has repeatedly called
+[ 10.7 min] to cut interest rates? Not raise them. I've got nothing for you on a discussion with the president,
+[ 10.8 min] but I won't make that count as your question. On the American people, as I said in my
+[ 10.9 min] prepared remarks, the least well-off are the ones who have the most to gain from stable prices.
+[ 11.0 min] Decision we made today was the right decision to deliver on the remit that Congress gave us to
+[ 11.1 min] ensure stable prices. Moreover, I would say because of the underlying strength of the economy,
+[ 11.2 min] because we are, as I mentioned, largely acting consistent with full employment. We can be focused on
+[ 11.3 min] stable prices. Some months ago, I said we will deliver stable prices. Today's action is consistent with
+[ 11.4 min] that. Chris. Hi, how are you? Thank you. Can you tell us a little more about what changed from the
+[ 11.6 min] July meeting when, as you noted, the Fed did stand pat until today? As part of that, could you give us
+[ 11.7 min] a sense of whether or not things like the retail sales report today suggested that demand is heating up
+[ 11.8 min] and possibly threatening higher prices as well? Thank you. As you might know, I'm not a
+[ 11.9 min] data point-dependent guy, so I won't react one way or another to data that shows up on our doorstep.
+[ 12.1 min] But on your first question, I think the more important one, what transpired in the seven weeks since we
+[ 12.2 min] last met? First, I would say good majority of my colleagues seven weeks ago thought seven weeks
+[ 12.3 min] is a good investment. It's a way to buy time so we can make a wise decision. I'll highlight three
+[ 12.3 min] things that have happened in that intermeeting period. One is I made a judgment seven weeks ago about
+[ 12.5 min] the strength of the economy. There's been a pretty wide-ranging set of data, including the labor
+[ 12.5 min] markets that the economy has strengthened. You might have heard me say that in Jackson Hole a few
+[ 12.6 min] weeks ago. It's a judgment that I have and the committee has. Second, inflation trends. I said in
+[ 12.8 min] Jackson Hole, trends matter. I said in Jackson Hole, we need to look outside the window and interrogate
+[ 12.9 min] reality. My judgment some weeks ago was the inflation summer trends weren't passing the test.
+[ 13.0 min] I've seen very little information since that would make me reverse that decision, so I've stuck
+[ 13.1 min] with it. And the third thing that's changed in seven weeks are geopolitics. There's no hiding from
+[ 13.2 min] hot spots around the world and our judgment about what is the most likely or least likely of the
+[ 13.3 min] geopolitical situation has changed. All three of those things lend themselves to a firm unanimous
+[ 13.4 min] decision today. There are Jones financial times. You said today's decision removes a dose of
+[ 13.6 min] accommodation in your view and perhaps if you could share views around the table too or interest rates
+[ 13.7 min] now at a level that you would describe as restrictive or not. Thank you. I've described previously
+[ 13.9 min] I found it difficult to describe financial conditions as restrictive. I think I said I was hard
+[ 13.9 min] pressed. What I heard around the table in the last couple of days is my colleagues were hard pressed
+[ 14.0 min] to describe it that way too. We removed a dose of accommodation, so that financial and credit
+[ 14.2 min] conditions would be more consistent with our ultimate objectives. That was the decision,
+[ 14.3 min] that was our judgment, and we'll continue to evaluate that prospectively.
+[ 14.4 min] Thank you, Mr. Chairman. I want to follow up on that question. Previously, most
+[ 14.5 min] federal officials had described the rate as modestly restrictive. And if you removed the
+[ 14.6 min] accommodation, could you give us your sense of where the Fed funds rate is relative to neutral? And
+[ 14.7 min] some detail, if you wouldn't mind, on your sense of is there a short-term neutral rate you're aiming
+[ 14.8 min] for and a longer-term neutral rate? Do you think in terms of those? In a word no. In a few words,
+[ 14.9 min] I'd say this, I've always been interested in neutral rate as an academic matter.
+[ 15.0 min] Back when I learned economics, we used to think of it as a wixellian rate. It's a real equilibrium rate.
+[ 15.2 min] It's useful academically. It's a discussion help us think about policy. Do I think it has any
+[ 15.3 min] operational effect on decisions that we make today? No, I don't.
+[ 15.4 min] Hi, Victoria Guido with Politico. I wanted to ask you've talked about how you don't like data
+[ 15.5 min] dependence, including today. But heading into this meeting, there was a ton of focus on the August
+[ 15.6 min] to CPI. And I'm wondering if you think that that was appropriate on the part of markets,
+[ 15.7 min] or if you've learned anything about how you might approach communications going forward?
+[ 15.8 min] So market participants and reporters, I think generally over the course of the last decade or so,
+[ 15.9 min] have grown accustomed waiting somewhat breathlessly on a data point. That isn't my view.
+[ 16.1 min] I was not waiting breathlessly on what any particular data was, whether it was retail sales this morning,
+[ 16.2 min] or a CPI print last week. I'll just reiterate, trends matter. Data points are noisy. Data point
+[ 16.3 min] dependence is a dangerous preoccupation. It's not something that concerns me. Markets over time
+[ 16.4 min] will come to understand how this Fed makes its decisions, what's relevant and not. And I wouldn't
+[ 16.5 min] want to editorialize that for them beyond it. Thanks for doing this, Mr. Chairman,
+[ 16.7 min] Zach Calishek, the Washington Examiner. I'm just curious, a couple of weeks ago, the president
+[ 16.7 min] sent out a message essentially threatening to cut off trade to certain countries, unless
+[ 16.8 min] rates were lowered. Obviously, an anonymous decision to do the opposite. What would you say to
+[ 16.9 min] investors who sort of believed this is another test of the Fed's independence? And then kind of,
+[ 16.9 min] when was the last time you spoke with the president? Do you anticipate a post decision meeting?
+[ 17.0 min] You gave me a long menu from which to choose. They're all very tempting. I don't have anything for you
+[ 17.1 min] on discussions with the president. And I'm not a Wall Street newsletter. Part of the independence
+[ 17.3 min] of the Federal Reserve is we stay in our lane. Independence is a two-way street. We'll let people
+[ 17.4 min] that do trade policy and fiscal policy stay in their lane too. That's how we can stand up here
+[ 17.5 min] and call them the way we see them. Brian Chung. Hi there, Brian Chung with NBC News. Just
+[ 17.6 min] wondering if you could explain who is the least wall-off? And what does a rate hike do when
+[ 17.7 min] those people might be pinched by higher mortgage rates, higher gas, higher grocery prices, and now
+[ 17.8 min] broad higher rates? Yeah. It's a fair question. In the macroeconomics, we tend to look at aggregates
+[ 17.9 min] around here, aggregate GDP, overall labor market trends, the state of inflation. A lot of people
+[ 18.0 min] in Washington spend a lot of time on distributional consequences, and that's their job and their business.
+[ 18.1 min] What I was referring to in the least well-off tend to be people that don't own financial assets.
+[ 18.2 min] Call that a bit less than 50% of the country. They don't have equity in their home. They don't have
+[ 18.4 min] a couple of weeks. The thing that we can do consistent with our mandate is two things. Ask ourselves,
+[ 18.5 min] this is the country running more or less at full employment, and we've done that. That doesn't
+[ 18.6 min] mean that individuals aren't searching for a job, but in aggregate, we're running more or less at
+[ 18.6 min] full employment. If so, we can then look at the other side of our mandate and let that be our focus.
+[ 18.7 min] In stable prices, an environment where inflation is running consistent with our 2% objective
+[ 18.9 min] offers good news because that way when they get their wages, they can put their head above water
+[ 18.9 min] and deliver real take-home pay increases. We don't have total responsibility for it, but we do
+[ 19.0 min] have responsibility for stable prices. As I've said before, inflation is a choice, and today we took
+[ 19.1 min] a step in delivering it. Yes, sorry. I'll let me tell you from Agence France Press, AFP.
+[ 19.3 min] Are you looking at the also central banks, and what do you think about the European
+[ 19.4 min] central banks move? They hike twice this year, but not in a row. Thank you.
+[ 19.5 min] Well, I don't ask them to prejudge decisions that we're going to make, so I won't prejudge
+[ 19.6 min] decisions that they make. But I will say this. I've spent some time with foreign central bank counterparts
+[ 19.7 min] not just in the last 20 years, but over the course the last several weeks, as I mentioned in Jackson
+[ 19.8 min] Hall, at the G20 meeting we hosted in North Carolina, and at a central bank meeting in Basel.
+[ 19.9 min] What I heard around the table from most of the advanced economies is they're suffering from price
+[ 20.0 min] pressures too. They're making their own choices consistent with their remit. It tells me a couple
+[ 20.1 min] things. One is when the Federal Reserve makes a policy choice, it matters not just to the US economy,
+[ 20.2 min] but it spills over to the rest of the world. To a lesser extent, that's true for them too.
+[ 20.3 min] When foreign central banks make decisions where they're confronted with higher prices,
+[ 20.4 min] and they choose consistent with their remit to raise rates, then they're helping to quash
+[ 20.5 min] inflation in their countries and their spillovers and spillbacks in both directions. Beyond that,
+[ 20.6 min] I won't opine on what other central banks may choose to do this week or beyond.
+[ 20.7 min] Thank you, Nick Timmeros of the Wall Street Journal. At Chairman Worsh, last fall, you expressed concern.
+[ 20.8 min] The Fed was about to make its, quote, sixth or seventh big mistake by deciding the economy was too
+[ 20.9 min] strong to justify lower rates. Now, today, you raised rates. Can you give some sense
+[ 21.0 min] as to what changed your own assessment of the US economy between then and now?
+[ 21.1 min] So I don't remember the full context, but I can tell you, Nick, about the state of growth now.
+[ 21.2 min] My suspicion, 110 or 20 days ago when I showed up, was that the US economy was strengthening.
+[ 21.3 min] Even over the last several weeks, I think we now have data broadly defined that says the economy
+[ 21.5 min] has indeed strengthened. Underlying growth is higher. Inflation is the problem.
+[ 21.6 min] Stable prices have been the problem for now more than 5.5 years. So what the committee decided
+[ 21.7 min] to do today was take an action to ensure a timely return to our price stability objective.
+[ 21.8 min] Price stability is foundational to economic growth, and I think we took an important step today
+[ 21.9 min] to deliver it, and we did it in part by removing the dose of accommodation that I mentioned before.
+[ 22.1 min] Thank you, Mr. Chairman. Neil Irwin, with Axios, longer-term bond yields are up quite a bit
+[ 22.1 min] over the last few months, especially the last few weeks. What do you believe the bond market is
+[ 22.2 min] telling you, especially about the growth outlook, the neutral rate, and what are the implications
+[ 22.3 min] for monetary policy? Let me speak to the history. What bond market prices do,
+[ 22.4 min] prospectively, I want to let them tell me any story they wish to. I want to try to interrogate that.
+[ 22.5 min] But why did yields rise, let's say, since the last FOMC meeting till this?
+[ 22.6 min] I'll give you three reasons, but I would say these things tend to be overdetermined. This is a
+[ 22.7 min] complicated set of things that are affecting the most important asset anywhere in the world,
+[ 22.8 min] the tenure treasury. It's the risk-free asset upon which every price, virtually every asset in the
+[ 22.9 min] world, is related to. So I'll say three things. First is economic strength. Part of the reason why
+[ 23.0 min] we've seen over the course of 2026, long-term yields go up, is the economy is strengthened.
+[ 23.1 min] Second reason, competition for capital. The surge in capital expenditures, which I referenced in
+[ 23.2 min] my remarks, is real, and the so-called hyperscalers are out of the market raising funding. So the
+[ 23.4 min] competition for capital is real, and I think it partly explains the increase in yields. The third
+[ 23.5 min] is geopolitics. The situation in hot spots around the world are driving long-term yields.
+[ 23.6 min] It's not simply spot prices of energy or spot prices for corn or soybeans or wheat,
+[ 23.7 min] but it's the difference between those spot prices and so-called crack spreads. What that means for
+[ 23.8 min] products that find their way into stores across the country. I think those are the three leading
+[ 23.9 min] explanations, but certainly not exclusive list. Michael McKee? Michael McKee from Bloomberg Radio
+[ 24.0 min] and Television. You said in Jackson Hole that you want to see inflation come down clearly
+[ 24.1 min] and at sufficient speed, which is a standard without necessarily a measurable threshold. And the reason
+[ 24.2 min] I ask is because today you say today's policy action will support a timely return to the committee's
+[ 24.4 min] 2% target, and yet in the summary of economic projections, the median pushes the 2% target
+[ 24.4 min] achievement out to 2029 in other two years, and I'm wondering how you can square those two things.
+[ 24.6 min] One easy way to square that, Mike, is those aren't my forecasts. Those are the forecasts of my 18
+[ 24.7 min] colleagues, and I tried to represent them due to flee to you. My business is to not give forward
+[ 24.8 min] guidance, but my commitment in June was to reaffirm to the American people, to anyone listening
+[ 24.9 min] that we will deliver price stability. My commitment in July was to say we want to buy a little
+[ 25.0 min] bit of time. We want to evaluate what's happening across a range of dimensions, and what I said in
+[ 25.1 min] Jackson Hole in August is we're committed to a discipline, not to a decision. Today's action
+[ 25.3 min] starts to show we're serious about this, and we will deliver on the price stability objective,
+[ 25.4 min] and as the statement said, we'll do it on a timely or basis. That's our decision, and
+[ 25.5 min] when we continue our discussions over the course of the next several weeks and months,
+[ 25.6 min] we'll have more to say about it, but I'm ill-prepared to prejudge those future actions.
+[ 25.7 min] Thanks, Chairman Warsh. Medi, you can see an end. You've spoken in the past about the positives
+[ 25.8 min] that could come from widespread adoption of artificial intelligence. How concerned are you,
+[ 25.9 min] if at all, about these increasingly alarming warnings we've heard from AI leaders about losing
+[ 26.0 min] control of this powerful technology and doing real-world damage, damage that would presumably impact
+[ 26.1 min] the real economy? So I've spent a lot of time thinking about AI, and before I found my way to this
+[ 26.2 min] post, I spent a lot of time talking about it publicly. Independence of the Federal Reserve is about
+[ 26.3 min] staying in our lane. We care very much about what's happening in artificial intelligence. We care
+[ 26.5 min] much about the implications on the demand side of the economy, and ultimately on the supply side of
+[ 26.5 min] the economy. I care so much. I think it's so important that we establish a task force that should
+[ 26.6 min] report by the end of the year to help us think about the implications for our future policy conjuncture,
+[ 26.7 min] but the policy decisions that are made about the risks and rewards, the challenges and opportunities,
+[ 26.9 min] those are decisions made by other parts of the government. I'm going to leave it to them to make
+[ 26.9 min] those political decisions, those policy decisions, the implications of those decisions, obviously
+[ 27.0 min] have some bearing on our day job, and that's where we'll be focused.
+[ 27.1 min] Thanks for the last question. We'll go to Jennifer Schoenberger.
+[ 27.2 min] Thank you, Mr. Chairman, Jennifer Schoenberger with the Iowa Finance. Inflation has run out
+[ 27.3 min] mostly from higher energy prices and tariffs, which some say are supply shocks that rate hikes cannot
+[ 27.4 min] fix and should fain on their own, so long as inflation expectations stay anchored.
+[ 27.5 min] And now that you have hyped rates, do you need to push growth below potential, unintentionally,
+[ 27.6 min] pushing weakness on the job market to bring inflation down, and how do those dynamics play out
+[ 27.7 min] given the forcefulness with which AI is driving the economy right now?
+[ 27.7 min] So there's a lot there, Jennifer. Let me see if I can't do just a little bit of it.
+[ 27.8 min] First, we believe that the unemployment rate is basically running consistent with full employment.
+[ 28.0 min] I don't believe that we need to do harm to the labor markets to achieve our objective.
+[ 28.0 min] I don't believe that the two parts of our mandate, price stability and full employment
+[ 28.1 min] are working across purposes over the medium term. So economic growth, that is ensuring continuous
+[ 28.3 min] sustainable, durable economic growth, that's the business we're in. And the job we did today,
+[ 28.4 min] the job will continue to do, is to ensure price stability, which can mean that sustainable,
+[ 28.5 min] durable economic growth can go on for longer. The economy can be stronger. And as I mentioned
+[ 28.6 min] before, the least well-off can get the benefits of it. Thank you. Thank you.

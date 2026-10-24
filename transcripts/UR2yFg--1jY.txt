@@ -1,0 +1,371 @@
+[  0.2 min] Good afternoon.
+[  0.2 min] My colleagues and I remain squarely focused on achieving our dual mandate goals of maximum
+[  0.3 min] employment and stable prices for the benefits benefit of the American people.
+[  0.4 min] The U.S. economy has been expanding at a solid pace, while job gains have remained low.
+[  0.5 min] The unemployment rate has been little changed in recent months.
+[  0.5 min] Inflation has moved up and has elevated in part reflecting the recent increase in global
+[  0.6 min] energy prices.
+[  0.6 min] Today, the FOMC decided to leave our policy rate unchanged.
+[  0.7 min] We see the current stance of monetary policy as appropriate to promote progress toward our
+[  0.8 min] maximum employment and 2% inflation goals.
+[  0.9 min] Developments in the Middle East are contributing to a high level of uncertainty about the economic
+[  0.9 min] outlook, and we will remain attentive to risks to both sides of our dual mandate.
+[  1.0 min] All that more to say about monetary policy after briefly reviewing economic developments.
+[  1.1 min] Recent indicators suggest that economic activity has been expanding at a solid pace.
+[  1.2 min] Consumer spending has been resilient, and business fixed investment has continued to expand
+[  1.3 min] at a brisk pace.
+[  1.3 min] In contrast, activity in the housing sector has remained weak.
+[  1.4 min] In the labor market, the unemployment rate was 4.3% in March and has changed little in recent
+[  1.5 min] months.
+[  1.5 min] Job gains have remained low.
+[  1.6 min] A good part of the slowing in the pace of the job growth over the past year reflects a decline
+[  1.6 min] in the growth of the labor force due to lower immigration and labor force participation,
+[  1.7 min] though labor demand has clearly softened as well.
+[  1.8 min] Other indicators, including job openings, layoffs, hiring and nominal wage growth, generally
+[  1.9 min] show little change in recent months.
+[  2.0 min] Inflation has moved up recently and is elevated relative to our 2% longer run goal.
+[  2.1 min] Estimates based on the Consumer Price Index and other data indicate that total PCE prices
+[  2.1 min] rose 3.5% over the 12-month ending in March, boosted by the significant rise in global
+[  2.3 min] oil prices that has resulted from the conflict in the Middle East.
+[  2.3 min] Excluding the volatile food and energy categories, core PCE prices rose 3.2% over the 12-month ending
+[  2.4 min] in March.
+[  2.5 min] This relatively high rate largely reflects the effects of tariffs on prices in the good
+[  2.5 min] sector.
+[  2.6 min] Near-term measures of inflation expectations have risen this year, likely because of the substantial
+[  2.7 min] rise in oil prices.
+[  2.7 min] Most measures of longer-term expectations remain consistent with our 2% inflation goal.
+[  2.8 min] Our monetary policy actions are guided by our dual mandate to promote maximum employment
+[  2.9 min] and stable prices for the American people.
+[  2.9 min] At today's meeting, the committee decided to maintain the target range for the federal
+[  3.0 min] funds rate at 3.5 to 3.3-quarters percent.
+[  3.0 min] The economic outlook remains highly uncertain, and the conflict in the Middle East has added
+[  3.1 min] to this uncertainty.
+[  3.2 min] In the near-term, higher energy prices will push up overall inflation.
+[  3.2 min] Beyond that, the scope and duration of potential effects on the economy remain unclear, as
+[  3.3 min] does the future course of the conflict itself.
+[  3.4 min] We will continue to monitor the risks to both sides of our dual mandate.
+[  3.5 min] We are well positioned to determine the extent and timing of additional adjustments to our policy
+[  3.5 min] rate based on the incoming data, the evolving outlook, and the balance of risks.
+[  3.6 min] Monetary policy is not on a preset course, and we will make our decisions on a meeting by meeting basis.
+[  3.8 min] This is my last press conference as chair, and I will close with a few thoughts.
+[  3.9 min] First, I want to congratulate Kevin Warsh on his advancement out of the Senate Banking Committee this morning.
+[  3.9 min] This is an important step forward, and I wish him well as that process continues.
+[  4.0 min] The Federal Reserve exists for one fundamental purpose to foster the economic conditions in which
+[  4.1 min] American families and businesses can thrive.
+[  4.2 min] Stable prices, a strong job market, and a financial system they can depend on.
+[  4.3 min] Every decision we make, whether about interest rates or regulatory and supervisory matters or other issues,
+[  4.4 min] is made in service of that purpose.
+[  4.4 min] Our decisions reflect the collective judgment of the Board of Governors and the Federal Open Market Committee,
+[  4.5 min] colleagues who demonstrate analytical rigor, principal judgment, and a genuine commitment to the public interest.
+[  4.6 min] Our collaborative and deliberative process has long reflected a shared commitment to finding common ground in service to our mission.
+[  4.8 min] This institution is resilient, capable, and staffed by professionals of extraordinary talent and exceptional dedication.
+[  4.9 min] It has been a privilege to serve alongside so many great public servants at the Board of Governors and around the Federal Reserve System.
+[  5.0 min] The Fed's work is only as effective as the public's understanding of it, and you, the press, are essential to keeping the public informed about what we do and why.
+[  5.2 min] The people we serve benefit from your careful reporting.
+[  5.3 min] I welcomed the announcement last Friday by the US Attorney for the District of Columbia that she had closed the criminal investigation.
+[  5.4 min] She also noted, however, that she would not hesitate to restart the investigation.
+[  5.5 min] Over the weekend, the Department of Justice provided assurances that they will not reopen the investigation unless there's a criminal referral from the Fed's Inspector General.
+[  5.6 min] And, absent such a referral, if they do appeal the recent court decision, they would not seek, as part of that appeal, to restart the investigation or send new subpoenas.
+[  5.8 min] I've said that I will not leave the Board until this investigation is well and truly over with transparency and finality, and I stand by that.
+[  6.0 min] I'm encouraged by recent developments, and I'm watching the remaining steps in this process carefully.
+[  6.1 min] My decisions on these matters will continue to be guided entirely by what I believe is in the best interest of the institution and the people we serve.
+[  6.2 min] After my term as chair ends on May 15, I will continue to serve as a governor for a period of time to be determined.
+[  6.4 min] I plan to keep a low profile as a governor.
+[  6.4 min] There's only ever one chair of the Federal Reserve Board, when Kevin Worsh is confirmed and sworn in, he will be that chair.
+[  6.5 min] Once sworn in as Board Chair, his new colleagues will elect him to chair the FOMC as well.
+[  6.7 min] As I regularly point out from this podium, our success in delivering our goals matters for all Americans.
+[  6.8 min] I'm confident that the Fed will continue to do its work with objectivity, integrity, and a deep commitment to serve the American people.
+[  6.9 min] Thank you, and I look forward to your questions.
+[  7.1 min] Thank you, Mr. Chair.
+[  7.1 min] I appreciate the kind of words about the press often doesn't come from the podium in different places, but I appreciate that.
+[  7.2 min] Can you talk about what has gone into your decision to remain on the board?
+[  7.2 min] What kind of criteria are you weighing and how long will it just stay?
+[  7.3 min] Thank you.
+[  7.3 min] Sure, so my concern is really about the series of legal attacks on the Fed, which threaten our ability to conduct monetary policy without considering political factors.
+[  7.5 min] And I want to note here, this has nothing whatever to do with verbal criticism and my elected officials.
+[  7.6 min] I've never suggested that such verbal criticism is a problem and neither has anyone else here.
+[  7.7 min] But these legal actions by the administration are unprecedented in our 113-year history, and there are ongoing threats of additional such actions.
+[  7.8 min] I worry that these attacks are battering the institution and putting at risk the thing that really matters to the public, which is the ability to conduct monetary policy without taking into consideration political factors.
+[  8.0 min] It is so important for economy, for the people that we serve that they can depend over time on a central bank that operates that way free of political influence.
+[  8.2 min] It's part of the absolute foundation of this amazing economy that we have.
+[  8.3 min] It's just one of the many reasons why the U.S. economy is the envy of the world.
+[  8.3 min] That piece of institutional architecture separates successful countries from unsuccessful countries.
+[  8.4 min] It is extremely important not for the people who work at the Fed in a given time, but for the people that we serve that the Fed remain able to conduct monetary policy in a way that doesn't get pulled into politics trying to help or hurt any particular politician or political party.
+[  8.7 min] It's critical for the people that we serve.
+[  8.7 min] In terms of when I would leave, I will leave when I think it's appropriate to do so.
+[  8.8 min] What would you say to the criticism that by remaining on the board you're actually taking a political act and denying President Trump the majority of the board which has president he would have if you left?
+[  9.0 min] I don't see that at all.
+[  9.1 min] As I mentioned, I'm literally staying because of the actions that have been taken.
+[  9.1 min] I had a long plan to be retiring and the things that have happened in the last three months of I think let me no choice but to stay until I see them through at least that long.
+[  9.3 min] In addition, I don't see how this will interfere.
+[  9.4 min] My intention is not to interfere.
+[  9.5 min] I was a governor for almost six years.
+[  9.5 min] And the tradition is that the Fed that governors who understand how difficult the role of chair is and as a soon to be former chair I do understand how hard it is to get consensus with 19 strong-minded people.
+[  9.7 min] You work with the chair.
+[  9.7 min] You try to be heard but also collaborate with the chair and try to support the chair when you can.
+[  9.9 min] When you can't, you can't.
+[  9.9 min] I think that's the attitude that people generally take and that's the attitude that I'll take.
+[ 10.1 min] Chair Powell, if I could ask about the inflation outlook, in March you described the standard practice of looking through energy shocks as conditional on inflation expectations staying anchored.
+[ 10.3 min] Since that meeting, there has been very little progress reopening key energy trade corridors.
+[ 10.4 min] Can you help us understand how the inflation outlook has changed in the intermitting period beginning with the prospects for tariff pass through resolving on the timeline that you had outlined in March before getting to the energy shock that is now on top.
+[ 10.6 min] So, you know, I would look at it this way.
+[ 10.7 min] For a long time we've been working on the hypothesis really that tariff tariffs would lead to a one-time price increase in that that would go away over time.
+[ 10.9 min] In other words, there would be no further change so measured inflation wouldn't reflect that higher level going up more and more.
+[ 11.0 min] And it's time for that to happen.
+[ 11.1 min] You know, we really do expect that to be happening in the next two quarters.
+[ 11.1 min] So, we're watching very carefully to see that what we've thought all along would happen, that's the kind of critical part of the forecast.
+[ 11.2 min] We need to really see that.
+[ 11.3 min] With energy, it's so hard to say.
+[ 11.3 min] I mentioned, you know, in sort of the textbook, you would look through an oil shock because they tend to be short-lived and they tend to revert.
+[ 11.5 min] And monetary policy works with long and variable lags.
+[ 11.5 min] So, you know, you wouldn't necessarily react right away.
+[ 11.6 min] I think that is all the more true given that we're several years above 2% inflation and that we're already looking through the tariff shock.
+[ 11.7 min] So, I think we're going to be very cautious about that.
+[ 11.8 min] But the question about looking through energy really is not in front of us right now.
+[ 11.8 min] It hasn't even peaked yet.
+[ 11.9 min] And I think we'd want to see the backside of that and progress on tariffs before we even thought about reducing rates.
+[ 12.0 min] So, if I could follow up, the statement today preserves language that has taken on some meaning as it was socialized when the committee was actively lowering rates.
+[ 12.1 min] Why is that easing bias still ripe given how different the inflation outlook is now versus a meeting or two ago?
+[ 12.3 min] And what more would have to happen for it to get evicted?
+[ 12.4 min] So, that was, as you will recall, we had a discussion about that at the last meeting and we talked about it in the cross conference after the March meeting.
+[ 12.5 min] We had the same today. We had quite a vigorous discussion about that very issue and the guidance and is it still appropriate and that kind of thing.
+[ 12.6 min] And I would say that the number of people on the committee who either could support that language change changing to a more neutral stance so that the hike is as likely as a cut.
+[ 12.8 min] That number has increased over the intermeeting period and it's easy to see why.
+[ 12.9 min] I mean, it's a good question, right? You see, inflation has moved up over the interme, a bit core inflation is 3.2 now moving, albeit just a little bit in the wrong direction.
+[ 13.1 min] And we know that there will be, you know, that there's headline inflation coming out of the gulf and we don't know how much that will be, we're going to need to see.
+[ 13.3 min] So, it makes all the sense in the world that people would look at that and we'd have a vigorous discussion about that.
+[ 13.4 min] You saw that three people descended over the language. I think all of those people agreed with the right decision.
+[ 13.5 min] So, the majority of the committee did not want to do that and I was, I didn't think we needed to do it. This meeting really was just a question of what's, why do we need to do that now?
+[ 13.7 min] You know, we have so much to learn. There's so much uncertainty about the path ahead. There doesn't need to be any rush to make that decision now because, you know, what happens in the next 30, 60 days, even by the next meeting could really change the picture around that language.
+[ 13.9 min] So, you know, it was a, it was a, it's a close, it's a much closer thing on the committee than it was in March. And, you know, that makes all the sense in the world seems to me.
+[ 14.1 min] So, Claire Jones, financial times. Just, just going back to this issue, the, the easing bias.
+[ 14.2 min] We've now got oil approaching $120 a barrel when it comes to the benchmark.
+[ 14.4 min] If it stays around those levels, six weeks from now, what would be your guess best guesses to whether the easing bias will still be in the statement? Thank you.
+[ 14.6 min] I wouldn't want to guess. You know, well, first of all, we're going to have new leadership and all likelihood by then and new leadership is going to have a very important role to play in that.
+[ 14.7 min] So, I won't be standing here as a podium to answer your question.
+[ 14.8 min] So, I don't know. As I mentioned, that's all I can really say is that we had a great discussion about that today. It's a, you know, it's gotten, it's gotten to be a better question than the interim period.
+[ 14.9 min] We had the discussion. The majority are still on the page of, of not feeling the need to move to that level. And that's where I am.
+[ 15.1 min] I get it though, you know, at a certain point, you would move and that conceivably could come as soon as the next meeting.
+[ 15.2 min] Thank you. Just to follow on the new leadership also seem rather lukewarm on press conferences and on the dot plots. What would your advice to him be on these communication tools?
+[ 15.4 min] So, I'm not going to give him any advice through you today here, but I've, you know, I think communications generally is, I think every incoming chair takes a look at communications and it's a very healthy thing.
+[ 15.6 min] I mean, communications is, it's very complex and, you know, you can always be, be looking at new things. And if that happens, it feels like it's going to happen, that's completely appropriate thing.
+[ 15.8 min] Hi, Chair Powell, Neil. Can you tell us if you've been in touch with incoming Chairman Worsh, any, to what extent is this a normal transition process versus all the things swirling around something unusual? And what can we expect when he takes that podium?
+[ 16.1 min] I haven't seen him since seeing him at a dinner in January where I congratulated him and had a nice, nice chat with him. Haven't seen him. I don't know what a normal process is. You know, the last process was with Janet Yellen, with whom I had worked for six years.
+[ 16.4 min] And so it was, you know, we're sitting down the hall from each other. So it was a very different thing. I think this is and will be a very normal standard kind of a transition process. So that's what I expect. I have every reason to think it will be.
+[ 16.6 min] Quick call up is the Supreme Court ruling on Governor Cook a factor and when you may leave as a governor.
+[ 16.7 min] I wasn't thinking of it as such, but no, not really. I mean, I'm thinking more of the other things I mentioned.
+[ 16.8 min] Chris.
+[ 16.8 min] Hi, thanks for taking our question. I wanted to ask a question about your tenure and Chris Rugeber at Associated Press.
+[ 17.0 min] During your tenure as chair, you often spoke about how disadvantaged Americans benefited from extended periods of low unemployment.
+[ 17.1 min] In the new framework that Fed adopted in 2020, some economists say elevated the Fed's employment mandate.
+[ 17.2 min] Are you worried that the pandemic inflation spike that followed will make future Fed shares more reluctant to pursue a hot jobs market? And should they be?
+[ 17.4 min] I don't know the answer to that. I mean, what we, so what we experienced in the teens, the mid teens, was really low levels of unemployment for a long period of time.
+[ 17.7 min] There's been no reaction from inflation. And we all took very much, took notice of that.
+[ 17.8 min] We also noticed that the biggest wage gains were going to people at the bottom end of the income spectrum.
+[ 17.9 min] And we had many, many reports of, I mean, it felt like a fairly stable equilibrium.
+[ 18.0 min] And a lot of benefits were flowing to people at the bottom end of the income spectrum, including companies were setting up in people who were confined.
+[ 18.1 min] And like training them before they got out. And it was a very healthy sort of set of societal dynamics.
+[ 18.3 min] So of course, I think anybody would love to get back to that.
+[ 18.3 min] I don't think that anything that happened to create the global pandemic inflation was in any way related to overweighting the employment market.
+[ 18.5 min] I mean, it was a global shock that happened essentially very, very similarly all over the world that had to do with closing reopening stimulus and all that.
+[ 18.7 min] And I mean, you could look at a graph of 10 big economies on the page and not know which was the US and which was Germany, France, and things like that.
+[ 18.8 min] So I don't think that that insight was in any way responsible for the high inflation that we experienced.
+[ 18.9 min] So, I mean, I think it's always been a balance. You've got to be strong on both of our dual mandates.
+[ 19.1 min] And we just, for example, now we don't feel that the labor market is at all source of inflation.
+[ 19.2 min] So we don't need to be worrying about that. It's been a long time since we haven't had to worry about that.
+[ 19.2 min] Well, actually during the pandemic recovery, the labor market was super overheated and tight.
+[ 19.3 min] And that's when we had to worry about it, but not now.
+[ 19.4 min] Just on the other issue, are you, would you need, do you need more assurance from the Justice Department before stepping down?
+[ 19.5 min] Is that what you're waiting for or what else?
+[ 19.5 min] I'm worried for the investigation to be well and truly over with finality and transparency.
+[ 19.6 min] And I'm waiting for that. And I will leave when I think it's appropriate to do so.
+[ 19.8 min] Michael McKee?
+[ 19.8 min] Michael McKee from Blueburg Television Radio. I'd like to ask you if you could explain a little more or characterize a little more the discussion about the two-sided view and interest rates because there were some members of the Open Market Committee who've been suggesting that we may need to raise interest rates even absent the war because inflation was not coming down fast enough.
+[ 20.2 min] Is there any sense that interest rates might have to go up or was this just a setup to sort of warn people that you're worried about the war impacts?
+[ 20.4 min] So nobody, the three dissenters and others who could have supported that and others who were voters and non-voters who preferred it, they all supported the right decision.
+[ 20.6 min] So people are not saying we need to hike now. It's more a question of, don't we kind of feel that we should be neutral and markets, what are markets doing? People argue that this is consistent with markets are doing.
+[ 20.8 min] And again, it's a very fair question, but these changes, it's a form of forward guidance, and you want to make them in a way that will be sustained and continue to make sense and not something you need to take back fairly quickly.
+[ 21.1 min] So I think we just, a group of us, including me, didn't feel like we needed to be in a hurry on that, that markets are not confused about our reaction function, we don't have a problem to solve on that.
+[ 21.3 min] But the other side of the argument is a good argument, too, as I mentioned, it's a perfectly good argument to be having, good discussion to be having, so it came out the way it came out.
+[ 21.4 min] Well, you've got three dissents in favor of two-sided warning, you've got yourself staying on the board, you've got the criticism that does come from elected officials, and you've got a lot of critics who have faulted the Fed for being too slow of 2021 with inflation.
+[ 21.8 min] Are you worried about Fed credibility under all of this? Is that one reason that you want to stay on?
+[ 21.9 min] Not driving my thinking now, I mean, monetary policy is going to get made by, you know, 19 people, there's a lot of stability there.
+[ 22.1 min] I mean, if you think about it, every new Fed chair has the same situation, which is you've got 18 colleagues on the FOMC, 11 of them vote during any year, and you have to, your job is to create consensus,
+[ 22.3 min] it's to talk to them, understand them, you know, be inside their thinking and be able to pull them together and get consensus and move, and that's what every Fed chair has to do, and I think Kevin Wars is actually quite well, he has the capabilities, skills, to be very good at that, I would think.
+[ 22.7 min] So I think I'm not so worried about that process, you know, I think that'll work itself out.
+[ 22.8 min] Thank you, Chair Powell, Howard Schneider with Reuters.
+[ 22.9 min] You mentioned that staying on as a governor, you intend to keep a low profile, I'm just wondering if you could give us a little more detail on what that looks like, and how you can, to Shay.
+[ 23.1 min] What then, yeah, walk down the stuff, what that looks like, and particularly around the policy discussion, how you're able to have your intervention and not be a shadow chair and not have a kind of an outsized influence over the process.
+[ 23.3 min] Yeah, that's just something I would never do, you know, the shadow chair thing, you know, I don't know what the exact specifics of it will be, but I'm going back to being a governor, I respect the role of chair.
+[ 23.5 min] I was a governor for six years, and I know what that's like, and I had a pretty front row seat, particularly with Chair Yall onto whom I was close, when I worked with Chairman Bernanke for two years, but I was brand new at that time.
+[ 23.8 min] So I got a sense of what it was, and I had real sympathy for how hard it is to get that group to consensus, and I always felt like, you know, I don't want to add to that unnecessarily, and that means try to support the chair or the direction the chair wants to go any if you can, if you can't, you can't.
+[ 24.1 min] But I think that's the way it's always worked there, because the chair only has one vote, plus the ability to develop consensus, and if people won't be, you know, if they're not flexible at all, then how do you ever do that?
+[ 24.3 min] And so that's why the chair has, the authority the chair has really is to develop relationships with people and work with them and put something forward that has consensus.
+[ 24.5 min] And I propose to be a very constructive participant in that process, really out of respect for the office of the chair.
+[ 24.6 min] And in your view as a soon to be governor, how do you see the risks of oil prices bleeding into core inflation in coming weeks?
+[ 24.8 min] Because that was, it seems like the commentary that was coming from particularly some of the reserve bank presidents, they were elevated concerns about the bleed into core.
+[ 24.9 min] And, you know, here we are with three descents now. What do you see as the prospect of a core inflation?
+[ 25.0 min] Those prospects are real. Remember though, the real thing is we're going to have to wait and see.
+[ 25.1 min] We're going to need to see. And the good news is we think our policy stance is in a very good place for us to wait and see.
+[ 25.2 min] We're right at the high end of neutral, or perhaps mildly restrictive. The labor market shows more and more signs of stability, whereas inflation is misbehaving.
+[ 25.4 min] And so maybe a little bit of restriction or the high end of neutral is just the right place to be.
+[ 25.5 min] So we can wait here and see how things work out before we act. And we'll see how much that, you know, how much does come through into core.
+[ 25.7 min] You see it already in air fairs, of course, but you may see it in many other places.
+[ 25.7 min] You know, we just don't know yet. And it's so unknown because how long will the straight be closed?
+[ 25.8 min] You can develop any number of scenarios that you want, but we really won't know until we know.
+[ 25.9 min] So fortunately, we're in a good place to wait and let things develop.
+[ 26.1 min] Thanks, Mr. Chairman. You started holding post meeting press conferences for every meeting as opposed to the ones with just with SEPs.
+[ 26.2 min] Can you talk about why you see that as a net positive?
+[ 26.3 min] So we always said when we were doing quarterly press conferences, we always said we can move at any meeting, but we only ever moved at the quarterly SEP meetings where we had the press conference.
+[ 26.4 min] So if you think about it, you know, during the pandemic, we were moving like a lot at every meeting and sometimes between meetings and doing that with our press conference, I think would have been quite challenging.
+[ 26.6 min] It's become the industry norm. It's the standard. I don't know whether that has to remain that way.
+[ 26.7 min] I don't know. I mean, it's just something people have become used to. And I do think it's quite helpful to, you know, to, I mean, I try to deliver a message on behalf of the committee rather than 18 people, 18 other people going out and delivering their message.
+[ 26.9 min] And it's, you know, it's going to be all over the place because we do thankfully have widely disparate views.
+[ 27.0 min] Okay, thanks. The other thing I wanted to ask about was the communications review from last year.
+[ 27.2 min] Could you describe the debate last year, what changes were considered, what you wanted, and what prevented action, any action on those changes?
+[ 27.3 min] So I'm not going to go into the real small specifics, but what we found very quickly was that making, making changes, making really large changes, for example, to the dot plot or the SEP.
+[ 27.6 min] It didn't have, we couldn't come up with anything that had really broad support on the committee. And so we just moved on.
+[ 27.7 min] We didn't, we didn't really do as much on that as we might have.
+[ 27.8 min] And, you know, I was never the world's biggest fan of the dot plot, but you can't beat something with nothing.
+[ 27.9 min] And, you know, there's a, we've looked at a bunch of things. And, you know, it's something, like I said, I think every new chair is going to look at our suite of communications.
+[ 28.1 min] And, and think about what would be changes. We are the only major central bank that doesn't publish a forecast. And that's because we have a 19 person committee.
+[ 28.3 min] And, you know, you try to do it, you try to do that on the, at the board, that's hard, at the committee that's hard. It's hard if you do it at the staff.
+[ 28.4 min] So, it's, you know, it's been, it works. I think our communications are fine. But looking at doing it in a different and better way is the most natural thing in the world.
+[ 28.6 min] Thank you. Colby Smith with the New York Times. If I could follow up on Mike's question about hikes, are we right to assume that the hawkish outcome for the Fed is still one in which the committee just extends the pause and read cuts.
+[ 28.8 min] And, to what extent is there a growing sense within the committee that monetary policy really isn't just restrictive at all right now.
+[ 29.0 min] The economy is holding up relatively well despite this major energy shock. The unemployment rate has ticked lower. Inflation was moving sideways even before the war and is now moving higher.
+[ 29.1 min] So, so where is the committee at on that debate? You know, where we're at is we think our policy, we think our policy rate is in a good place. If we need to hike, we will certainly signal that and we will certainly do it.
+[ 29.3 min] And if we need to cut then or if it's appropriate to cut then we'll signal the opposite. I think we because we feel like we're in a good place to move in either direction.
+[ 29.5 min] Nobody's calling for a hike right now. So, it really is going to depend on how things evolve. And, you know, that's really where it is.
+[ 29.7 min] As I mentioned, you know, much closer question this cycle on changing the guidance but ultimately we didn't.
+[ 29.8 min] And as it relates to the war, at what point do you think the risk to growth will be larger than the risk to inflation as this conflict drags on?
+[ 30.0 min] You know, you just have to find that out empirically. You know, with given our the fact that we're, you know, a big exporter of energy and that our economy is far less energy intensive oil intensive than it was during the 70s.
+[ 30.3 min] You know, the effects on the United States are really substantially less than those of Western Europe or Asia who are feeling much greater effects from these things.
+[ 30.5 min] The effects we're feeling in, you know, in the current situation currently and in sort of what's priced in which is, you know, a relatively quick outcome.
+[ 30.6 min] If this goes on for much longer and prices go much higher, then we'll feel that much more. And of course, I'm talking about aggregate inflation numbers.
+[ 30.8 min] We know we're very well aware that people are experiencing higher gas prices all over the country now. And that hurts. And those hikes may continue to happen.
+[ 30.9 min] And other other things are going to start to reflect airline fairs. I mentioned in other other products and services that are dependent upon petroleum and derivatives of petroleum people are going to start to feel that.
+[ 31.2 min] Edward.
+[ 31.2 min] Thank you. Thank you, Chair, for every Lawrence with Fox business. So I guess I'll just ask you directly on this. The markets don't see a rate cut at all this year is what they're predicting.
+[ 31.4 min] Do you think that we are at the neutral rate? Why are we not?
+[ 31.5 min] You know, the neutral rate is a we cannot know it with with certainty. I think pretty close to the neutral rate. Yeah, I always had it, you know, between three and four percent. We're a little north of three and a half.
+[ 31.7 min] So that's well in the range of what I consider a reasonable reasonable, but at the higher end of the range of what I would consider reasonable neutral rate.
+[ 31.8 min] You know, I think you're the labor market is still probably cooling off just a little bit. And I don't think there's a much of a case for any case really for the for policy looking, you know, meaningfully restrictive, maybe mildly restrictive or neutral, I would say.
+[ 32.1 min] And we're going to follow up on some of the other questions about your future a little bit. The first time we've seen to four to sense now since October of 1992. Are you handing off a divided Fed?
+[ 32.3 min] You know, the thing to remember is, we have always had vigorous debates and excellent debates. I have to say they're they've been really good.
+[ 32.5 min] And we're in an unusually difficult situation. So we've really had four supply shocks. You can actually you can say more than four, but at a minimum we've we had the pandemic.
+[ 32.7 min] We had the invasion of the of Ukraine. We had tariffs and now we have Iran and the oil. You know, the oil spike.
+[ 32.9 min] So those every every supply shock has the capability of right driving inflation up and unemployment up. And what do you do? You know, you're it's central bank has a really hard time knowing what to do.
+[ 33.1 min] So the right thing to do is to try to balance the achievement of those two goals. And that's what our framework calls for us to do. But these are really tough difficult judgments. You've got to have a forecast for each variable. You've got to think how long it's going to take to get back to target.
+[ 33.3 min] You've got to think how restrictive or not is policy. So it's only natural that you have a range of views on the committee. You know, people are going to see it different ways they can have different risk tolerances and that kind of thing.
+[ 33.5 min] I mean, if everybody agreed, that would be that would be surprising. And I think it's only it's partly a function of the extraordinarily challenging set of supply shocks that we've been dealing with now for five, six years.
+[ 33.8 min] Thank you so much, Chair Powell, Selena Wayne with ABC News, are you confident that Kevin Worsh will stand up to political pressure from President Trump?
+[ 33.9 min] So he he testified very strongly to that effect in his hearing and I'll take him at his word.
+[ 34.0 min] And when it comes to gas, right now, it's over $4 a gallon. Inflation just hit a two year high. Shoot Americans expect to be paying higher gas prices for the rest of this year. And in your view, does that take a rate cut off of the table?
+[ 34.3 min] And secondly, by staying on as Fed governor, what message do you think you're sending to the president?
+[ 34.4 min] I don't know what gas prices are going to do for the rest of the year. And it will depend on how long the straight remains closed and how quickly it can be reopened and that kind of thing.
+[ 34.5 min] But remember, when gas prices go up, that's disposable income coming out of people's pockets. So they're going to spend less on other things. So they will be hit to GDP.
+[ 34.7 min] So it's a question whether spending goes down to offset the inflationary effects. So the answer is an obvious ex ante whether you should move your rate because of that.
+[ 35.0 min] We'll have to see how it evolves.
+[ 35.1 min] I'll stand on what I said earlier.
+[ 35.1 min] Victoria.
+[ 35.2 min] Hi, Victoria Guida with Politico. During your tenure, Fed independence has come under pressure in a lot of different ways.
+[ 35.3 min] And I was just wondering, practically speaking, where do you see Fed independence as coming from? Is it the law? Is it political support from Congress? Is it the actions of the Fed? What sustains Fed independence?
+[ 35.5 min] It's to a significant extent. It is the law. And we've had to go to court successfully so far to defend it. But the law does create a setting in which the Fed can and is directed to make monetary policy without consideration of political factors.
+[ 35.9 min] And so part of it is the law. But it goes beyond that, though. There's a set of customs. There's a boundary line between the Fed and the administration between the Fed and the Treasury Department.
+[ 36.1 min] And we need to respect those, continue to respect those boundaries about what the Fed is responsible for and what the Treasury is responsible for.
+[ 36.2 min] And the rest of the administration is responsible. So some of it is legal. In fact, it's all legal at the end of the day. But it's more than just monetary policy.
+[ 36.4 min] We don't want to use our tools to, we haven't wanted to use our tools to achieve goals that are really clearly outside our mandate.
+[ 36.6 min] Every administration looks at our tools and thinks that would be good to repurpose those to serve other purposes. But that gets a drag, that's dragging us into politics and into fiscal policy. So we've resisted that.
+[ 36.8 min] Well, maybe another way of asking it too is, do you think that Fed independence is as strong now as when you became chair, and if so, why?
+[ 36.9 min] Look, I think it's at risk. I mean, I think these legal assaults, if you will, as I mentioned, the institution is being battered over these things.
+[ 37.1 min] We're having to resort to the courts to enforce our legal independence. It's really the ability to make monetary policy without political considerations.
+[ 37.4 min] That's what we're talking about. And we've had to do that, and we've been successful so far. But that's not over. None of that is concluded yet. And it's really important. It's not about people who work at the Fed or the institution.
+[ 37.6 min] It's about the benefits of a central bank that makes decisions based on analysis and our best thinking, rather than trying to help or hurt politicians.
+[ 37.8 min] There's a bright line between central banks who do one and do the other. And successful countries have uniformly successful advanced economy countries have a really strong set of protections around their central bank just for that reason.
+[ 38.0 min] So that's what it's all about. I think I am confident, as I said in my remarks, that the Fed will continue to make its decision based on analysis, rigorous analysis and not on political considerations.
+[ 38.2 min] But we've had to fight for it. I'd like to think that we can get out of that era and go back to respecting what the law says and what custom has been, which is to let the Fed do our thing.
+[ 38.5 min] It's an institution full of human beings who work super hard to get things right for the benefit of the public. We're all human. Don't expect for perfection. But do expect us to make decisions without political considerations and the very best analysis we can bring.
+[ 38.9 min] How would you characterize what you've heard from your colleagues on your decision to stay? Do you have their support? And then have you heard concern from your colleagues about continued legal attacks from the executive branch? Is this something that others have talked to you about?
+[ 39.2 min] So I think that I don't want to report on what my colleagues think they can speak for themselves. But there are widespread concerns that these things may continue. That's all I'll say. And that would be a problem.
+[ 39.5 min] And then I just also wanted to ask about Governor Waller's speech on the reserve banks. Do you have any thoughts on centralizing some of those functions in the way he described? And then are you concerned that something like that could potentially be a slippery slope to consolidate reserve bank functions even more?
+[ 40.0 min] In such a way where you, you know, the central bank ultimately loses some of that important regional information.
+[ 40.1 min] So we try to be good stewards of the public's money and efficient. And Chris in particular, Chris Waller is particularly passionate about that. Of course, so are the reserves, so are the presidents. And, you know, it's a question of how do you accomplish it?
+[ 40.4 min] We, of course, and Chris said this in his speech, we, you know, we want 12 strong independent central banks with their own staffs and their own monetary policy views and all that.
+[ 40.6 min] But, you know, there are things that are done in all 12, which could well be done at one much more efficiently and with cost savings. And so there's a back and forth going on on that. But everybody, everybody's on the same page.
+[ 40.7 min] The other thing he touched on was was the idea of removing reserve bank presidents from office over different views on monetary policy.
+[ 40.9 min] And I would just agree with him so strongly that that would be the beginning of the end of the feds ability to make monetary policy independently.
+[ 41.1 min] If every administration could come in and do that, you're just not a cabinet agency at that point. So that's not something that I would support. Chris said the same thing.
+[ 41.2 min] Christine.
+[ 41.3 min] Thanks, Chair Powell. Christine Romans, NBC News. I want to ask about legacy. When the history books are written, how do you think your stewardship at the Fed will be remembered for the past eight years?
+[ 41.5 min] You know, I'm going to just say that that's for that's for someone else to say I'll give you a mulligan on that.
+[ 41.6 min] All right. I'm going to ask you about misbehaving inflation. Then you talked about those four big shocks, supply shocks over the past five years.
+[ 41.7 min] And inflation still misbehaving. What's your message to American families who feel like inflation has not been under control for them really since since the COVID reopening?
+[ 41.9 min] You know, we're committed to bring inflation back down to 2% and sustainably. That's our goal. And we will stick at it until that happens.
+[ 42.1 min] We keep getting these events keep happening, which keep driving up costs. And, you know, the best thing we can do is to use our tools to guide inflation back down to 2%.
+[ 42.3 min] I think trying to get there really quickly could be very costly in terms of of job loss and things like that. But we try to get there over time in a way that does the least damage possible.
+[ 42.5 min] And, you know, our commitment to that is never ending and unshakable.
+[ 42.5 min] How would you describe the economy outside of the misbehaving inflation? I mean, it's still awfully resilient given all of the blows.
+[ 42.7 min] I don't know if you can be awfully resilient. So it's actually quite resilient, I would say because it's a positive thing if I can have that amendment.
+[ 42.8 min] Yeah, the growth is really solid across our economy. Some of that is that consumer spending is hanging in pretty well. The most recent data are good.
+[ 43.0 min] And some of it is just the apparently insatiable demand for data centers all over the United States.
+[ 43.1 min] So a lot of business investment going into building data centers. And every reason I think that that continues.
+[ 43.2 min] So you've got an economy that's growing at 2% or better, PDFP, which is private domestic final purchase, which is really a better signal of a momentum.
+[ 43.4 min] And it comes actually higher than that. So that's, you know, that's a positive thing.
+[ 43.4 min] If you look at the unemployment rates, 4.3%. So that's a low rate. That's pretty close to mainstream estimates of the natural rate.
+[ 43.6 min] We've been there for a long time. So it doesn't feel like a good labor market to some who don't have jobs because quits are really low, hires are really low.
+[ 43.7 min] And there's effectively no new net job creation. So that's that's, you know, in a sense, the labor market is in balance.
+[ 43.9 min] But it's an unusual and uncomfortable kind of a balance where people who don't have jobs will have a hard time breaking in unless somebody quits their job.
+[ 44.0 min] So so that's pretty good. You know, inflation is the thing we need to work on. And it's partly tariffs, which we think we think that that inflation should subside over the course of this year because it's it's kind of a one time increase.
+[ 44.2 min] It shouldn't be repeated. And that should start happening pretty soon. The energy inflation that we're getting should go through fairly quickly.
+[ 44.4 min] And we'll just have to see how that works out in the meantime. You know, we think our policy stance is in a good place for us to hold and wait developments.
+[ 44.5 min] Jennifer.
+[ 44.6 min] Thank you, Chair Powell, Jennifer Seanberger with the Out of Finance at the risk of beating the dead horse here, clearly three members objected to keeping that easing bias in the statement.
+[ 44.7 min] And you said that the majority still didn't need to move to new language at this point. So does the majority of the committee still have a bias towards cuts at this point or has the bias on the committee shifted away from cuts towards holding or hikes if that was needed?
+[ 45.1 min] I so I think that, you know, the center is moving toward a more neutral place. And that's sort of what markets are saying too.
+[ 45.2 min] I just think, you know, there's a lot of signaling going on when you change guidance like that. And so we just I guess the majority of us didn't feel like we needed to send a signal on that right now.
+[ 45.5 min] And but maybe it'll come to that. And the reason is because, you know, we're kind of waiting to see what happens with with events in the Middle East and one of the implications of those events for the US economy.
+[ 45.7 min] So there was just that there's a group of feels like we don't need to be in a hurry to do that. We get it. And of course, we will move to a hiking bias if we want to hike and move to a neutral bias before that.
+[ 45.9 min] But there was a difference over whether to do it at this meeting at a meeting at which all but one of us agreed that the rate decision was correct, which was not to move.
+[ 46.0 min] And you just said to go that you believe fit independence is at risk. Is it safe to say that you want to stay on as a governor to serve as a check in balance on that?
+[ 46.2 min] I want to stay until I will stay until it's I feel it's appropriate for me to leave. And yes, that is really what is driving this.
+[ 46.4 min] I'm not I'm not looking to be, you know, a high profile dissident or anything like that. I'm more looking at the other aspects of this.
+[ 46.5 min] And wanting to see that things have calmed down and we're returning to a traditional model of working with the people that you have and bring them into consensus and respecting that consensus.
+[ 46.8 min] That's what that's what I'm hoping to see.
+[ 46.8 min] Matt, Egan. Thanks, Chair Powell, Matt, Egan and CNN. You've made many tough decisions in your time at the Fed.
+[ 47.0 min] And as your time as chair comes to a close and you think about your tenure and perhaps your legacy, are there any decisions that stand out as ones that you're particularly proud of and are there any that with the benefit of hindsight, you would take them all again on.
+[ 47.3 min] Yeah, it's hard. I wouldn't want to single single out individual things at this point. You know, I'll just say, you know, we all of us together have consistently tried to do what we think is best for the American people based on our tools and our objectives that Congress has given us.
+[ 47.6 min] It's been very challenging because we've been in a situation of supply shock, supply shocks really for six years.
+[ 47.7 min] And that's just a very different situation than for a very long time what the Fed and other central banks were doing all the time was demand management.
+[ 47.9 min] And, you know, and there was always the inflation mandate, but inflation was low for 25 years.
+[ 48.0 min] So, this is a very different world and a much more challenging one where you have to balance the two objectives.
+[ 48.1 min] And by the way, central banks that have an inflation mandate have to do exactly the same thing because they're balancing economic activity.
+[ 48.2 min] So, that's been challenging. And we've, you know, we've tried to do our very best through these really challenging times.
+[ 48.3 min] And I'm really proud of the work that I've done that my colleagues and I have done during these years.
+[ 48.4 min] To follow up on some of the discussion around Fed independence, can you explain to the public why this notion of Fed independence, which might sound kind of wonky to some, is so critical.
+[ 48.6 min] I mean, what are the consequences if either the Supreme Court rules against Lisa Cook or the Fed in the future decides to make decisions more around the political calendar instead of the economic data?
+[ 48.8 min] So, every major advanced economy in the world has made the same decision the United States has made.
+[ 48.9 min] And that is that they want to take the making of monetary policy, the setting of interest rates, to support the economy to achieve maximum employment and price stability.
+[ 49.1 min] They want to take that out of the direct control of elected politicians.
+[ 49.2 min] And the reason is, elected politicians are always running for election and they'll always want low rates and that will lead to inflation over time.
+[ 49.3 min] So, after, you know, literally centuries of experience with that, the whole world moved to the different model and it's worked great.
+[ 49.4 min] I mean, this is the era in which inflation was under control for 40 years. Then we had the pandemic inflation everywhere in the world and now we have inflation that had gone pretty much all the way back to target,
+[ 49.6 min] and now is being buffeted by the energy shock and the U.S. buffeted by the tariff shock as well.
+[ 49.7 min] So, but what I would say to the general public is, that's the back story, is that it don't think of an institution being independent.
+[ 49.9 min] Think about it this way, that you want people to make monetary policy instead of interest rates to benefit the general public and to try to achieve economic goals, which are maximum employment and price stability and focus only on that.
+[ 50.1 min] And ignore political considerations, completely ignore them. This isn't bipartisan, this is non-partisan.
+[ 50.2 min] So, we want to just work directly for the American people doing these things. We don't think, oh, I want to do this because the president says it's a good idea or because there's an election coming up and I want to speed up or slow down the economy.
+[ 50.5 min] I mean, think about that. If that's what we were doing, we'd have no credibility. Markets would lose faith in us and our ability to control inflation and have any respect would be gone.
+[ 50.7 min] And let me say, whatever people say, the markets believe that we will produce 2% inflation. If you look at longer run expectations, markets believe that there's no sense in which our credibility in the markets has weakened.
+[ 50.9 min] And it's just not the case. It's people do get it. This is our commitment and that we will achieve it and it's priced in. If you disagree with that, then you can go ahead and bet against the markets. But the markets are pricing in fed credibility.
+[ 51.2 min] Thank you, Chair Powell. Richard Esquibito with CBS News. We talked a lot about gasoline prices and even you mentioned airline ticket prices both of which are dramatically because of the war in Iran.
+[ 51.4 min] And so, I wonder, are you seeing that way down consumer spending in other parts of the economy? And if so, how worried are you that that will be a drag on growth?
+[ 51.6 min] You don't see it in spending yet. You really don't. I mean, as one of your colleagues said, the economy has been resilient. It really has. Not just this time, but it's been remarkably resilient for some years now. The U.S. economy has just powered through shock after shock and consumers are still spending.
+[ 51.8 min] And that's what the banks will tell you. Credit card companies will tell you the retail sales numbers that we got most recently. People are still spending.
+[ 52.0 min] And how long can that go on in a world where if gas prices were to go up a bunch more, that's taking otherwise spendable money out of people's pockets.
+[ 52.1 min] But right now we don't actually see much slow down in yet, certainly none from this. But you think logically you will because people have a certain amount of money to spend if they're spending 25% more in gas or something like that, then that's going to come out of other spending.
+[ 52.4 min] Again, we don't see it yet. One last thing. You mentioned those economies in Southeast Asia that are particularly dependent on petroleum. They make a lot of the stuff that American consumers buy. So, was there any discussion today about whether or not those costs getting passed along to consumers is a real concern and whether or not that might push up inflation?
+[ 52.8 min] So, all of those things are in the models that we use to calculate inflation. So, you know, they're just parts that you can ask about anything like that and they have a place where the staff has a place where they're looking at that and pricing in what will happen with higher prices and that kind of thing.
+[ 53.1 min] So, it's there. The effects are not that big yet. You know, we're a huge economy. The import sector is only 10% of the economy. So, we're not like a European country, we're 50% of the external GDP is in the external sector.
+[ 53.4 min] We're also, you know, as I mentioned, we're an oil exporter. So, we're not feeling the same kind of pain and we're not likely to feel the same kind of pain that economies in Western Europe and certainly in Asia are feeling.
+[ 53.6 min] Anyway, thank you very much everyone. I won't see you next time.

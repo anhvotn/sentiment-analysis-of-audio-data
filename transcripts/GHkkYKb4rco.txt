@@ -1,0 +1,344 @@
+[  0.1 min] Good afternoon.
+[  0.1 min] My colleagues and I remain squarely focused on achieving our dual mandate goals of maximum
+[  0.2 min] employment and stable prices for the benefit of the American people.
+[  0.3 min] The U.S. economy has been expanding at a solid pace.
+[  0.4 min] While job gains have remained low, the unemployment rate has been a little changed in recent months,
+[  0.4 min] and inflation remains somewhat elevated.
+[  0.5 min] Today, the FOMC decided to leave our policy rate unchanged.
+[  0.6 min] We see the current stance of monetary policy as appropriate to promote progress toward our
+[  0.7 min] maximum employment and 2% inflation goals.
+[  0.8 min] The implications of developments in the Middle East for the U.S. economy are uncertain.
+[  0.8 min] We will remain attentive to risks to both sides of our dual mandate.
+[  0.9 min] And I'll have more to say about monetary policy after briefly reviewing economic developments.
+[  1.0 min] Available indicators suggest that economic activity has been expanding at a solid pace.
+[  1.1 min] Consumer spending has been resilient and business-fixed investment has continued to expand.
+[  1.2 min] In contrast, activity in the housing sector has remained weak.
+[  1.3 min] In our summary of economic projections, the median participant projects that real GDP
+[  1.4 min] will rise 2.4% this year and 2.3% next year, somewhat stronger than projected in December.
+[  1.5 min] In the labor market, the unemployment rate was 4.4% in February and has changed little since late last summer.
+[  1.7 min] Job gains have remained low.
+[  1.7 min] A good part of the slowing in the pace of job growth over the past year reflects a decline in the growth of the labor force.
+[  1.8 min] Due to lower immigration and labor force participation, though labor demand has clearly softened as well.
+[  1.9 min] Other indicators, including job openings, layoffs, hiring and nominal wage growth, generally show little change in recent months.
+[  2.1 min] In our SEP, the median projection of the unemployment rate is 4.4% at the end of this year and edges down thereafter.
+[  2.3 min] Inflation disease significantly from its highs in mid-2022, but remains somewhat elevated relative to our 2% longer run goal.
+[  2.4 min] Estimates based on the Consumer Price Index and other data indicate that total PCE prices rose 2.8% over the 12 months ending in February,
+[  2.6 min] and that excluding the volatile food and energy categories core PCE prices rose 3.0%.
+[  2.7 min] These elevated readings largely reflect inflation in the good sector, which has been boosted by the effects of tariffs.
+[  2.8 min] Near-term measures of inflation expectations have risen in recent weeks, likely reflecting the substantial rise in oil prices caused by the supply disruptions in the Middle East.
+[  3.0 min] Most measures of longer-term expectations remain consistent with our 2% inflation goal.
+[  3.1 min] The median projection in the SEP for total PCE inflation this year is 2.7% and 2.2% next year, a bit higher than projected in December.
+[  3.3 min] Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people.
+[  3.5 min] At today's meeting, the committee decided to maintain the target range for the federal funds rate at 3.5-3.4%.
+[  3.6 min] From last September through December, we lowered our policy rate to 3.4% at a point, bringing it within a range of plausible estimates of neutral.
+[  3.8 min] This normalization of our policy stance should continue to help stabilize the labor market while allowing inflation to resume its downward trend toward 2%.
+[  3.9 min] But the implications of events in the Middle East for the U.S. economy are uncertain.
+[  4.0 min] In the near term, higher energy prices will push up overall inflation, but it is too soon to know the scope and duration of the potential effects on the economy.
+[  4.2 min] We will continue to monitor the risks to both sides of our mandate.
+[  4.2 min] We are well positioned to determine the extent and timing of additional adjustments to our policy rate based on the incoming data, the evolving outlook, and the balance of risks.
+[  4.4 min] In our SEP, FOMC participants wrote down their individual assessments of an appropriate path of the federal funds rate under what each participant judges to be the most likely scenario for the economy.
+[  4.6 min] The median participant projects that the appropriate level of the federal funds rate will be 3.4% at the end of this year, and 3.1% at the end of next year, unchanged from December.
+[  4.8 min] As is always the case, these individual forecasts are subject to uncertainty, and they are not a committee planned or decision.
+[  5.0 min] Monetary policy is not on a preset course and will make our decisions on a meeting by meeting basis.
+[  5.1 min] To conclude, the Fed has been assigned two goals for monetary policy, maximum employment and stable prices.
+[  5.2 min] We remain committed to supporting maximum employment, bringing inflation sustainably to our 2% goal, and keeping longer term inflation expectations well anchored.
+[  5.4 min] Our success in delivering on these goals matters to all Americans.
+[  5.5 min] We at the Fed will continue to do our jobs with objectivity, integrity, and a deep commitment to serve the American people.
+[  5.6 min] Thank you, and I look forward to your questions.
+[  5.7 min] Thank you, Colby Smith and The New York Times.
+[  5.7 min] There's been some debate about whether the Fed should look through the inflation that will come from higher oil prices, standing from the Middle East conflict.
+[  5.9 min] Is that the right approach at this juncture? And to what extent does the fact that inflation has been above target for roughly five years now, influence the committees thinking around this?
+[  6.1 min] So, first let me say we're well aware of the performance of inflation over the last few years and how a series of shocks have interrupted progress that we've made over time.
+[  6.3 min] And that happened most recently with tariffs, and now there will be some effects on inflation coming forward.
+[  6.4 min] The thing that's really important that we see this year is progress on inflation through a reduction in goods inflation as the one time effects on prices of tariffs go through the system, go through the economy.
+[  6.7 min] That's the main thing we're looking for going into this exercise, and we need to be seeing that to sort of understand that we actually are making progress because on debt we didn't make progress.
+[  6.9 min] If we look at total inflation, sorry total core inflation, it's about 3%, and some big chunk of that between a half and three quarters is actually tariff, so we're looking for progress on that.
+[  7.0 min] The question of whether we look through the energy inflation doesn't really arise until we have kind of checked that box.
+[  7.2 min] It of course is kind of standard learning that you look through energy shocks, but that's always been dependent on inflation expectations remaining well anchored.
+[  7.3 min] And I think now it's also dependent on what you mentioned, which is that broader context of five years now of inflation above target.
+[  7.5 min] We have to keep all of those things in mind, and the question of looking through when it does arise will be one to approach not lightly, but in the context that you mentioned.
+[  7.6 min] And just on the SEP, can you help us make sense of why there is still a bias to cut for most officials this year, despite the upward revision to headline and core inflation and the essentially unchanged forecast for growth in unemployment, just curious kind of what's the genesis behind the need, what's the need for the cut?
+[  7.9 min] Yeah, so there are 19 people and so 19 reasons, 19 individual submissions.
+[  8.0 min] And if you notice, the median didn't change, but there was actually some movement toward a meaningful amount of movement toward fewer cuts by people.
+[  8.2 min] So four or five people went from two to one, let's say, to a cuts to one cut.
+[  8.3 min] And each person has individual stories behind what they want to do, but essentially it is that the forecast is that we will be making progress on inflation.
+[  8.5 min] Not as much as we had hoped, but some progress on inflation, it should come as we start to see in the middle of the year progress on tariffs going through once and then tariff inflation coming down.
+[  8.7 min] And that's, we should be seeing that. And, you know, the rate forecast is conditional on the performance of the economy. So if we don't see that progress, then you won't see the rate cut.
+[  9.0 min] Thank you.
+[  9.0 min] Thank you, Howard.
+[  9.0 min] It's just a pile up a little bit and to be clear, is the higher inflation's penciled in here for 2026 solely the result of the oil shock or something else?
+[  9.3 min] So that's going to be part of it. But, you know, that wouldn't be most of core, right? So the oil shock, for sure, shows up here. Some of that will be in core as well.
+[  9.4 min] But yes, but no, there's also just the feeling that we haven't seen, you know, the progress that we had hoped for on core goods and on tariffs and on the rest of it.
+[  9.6 min] You know, we've, we've, so for whatever reason, people did write up their inflation forecast that will certainly be tied to events in the Middle East and the price of oil.
+[  9.8 min] But it's also, I think, a reflection of the slow progress we've seen on tariffs, which we believe we will see. It's just a question of how long it takes for them to get all the way through the economy and it takes, it just takes some time.
+[ 10.0 min] And is the is the lack of change in the steps again just to explicate this a little bit more due to the expectation that the oil portion of this will pass through for more out of concern that there is a potential blow to consumption and growth coming in the form of wealth effects with the stock market down in the form of gas prices, you know, diverting spending from other parts of the economy.
+[ 10.4 min] So I didn't get the second part of your.
+[ 10.5 min] Well, the consumer is going to be potentially diverting money to gasoline from other parts of the economy. There could be a growth shock or a redistribution of spending there.
+[ 10.6 min] They can make consumption wealth effects as well. I guess I'm wondering, are you not, is the rate forecast not changing because you think the oil shock is going to be temporary or because you want to be sure your position in case growth starts to slow.
+[ 10.8 min] So the thing I really want to emphasize is that nobody knows, you know, the economics effect could be bigger, they could be smaller, they could be much smaller or much bigger. We just don't know.
+[ 11.0 min] So people are writing down something that seems to make sense of them but have no conviction to your point.
+[ 11.1 min] If we have high, you know, if we have a long period of much higher gas prices, that's going to weigh on consumption, not a way on disposable personal income.
+[ 11.2 min] And it will weigh on consumption, but we don't know if that's going to happen. Something quite different than that. We might have much lower than expected pass through.
+[ 11.4 min] So people write down, you know, this is one of those SEPs where a number of people mentioned if we were ever going to skip an SEP, this would be a good one because we just don't know.
+[ 11.5 min] So I wouldn't say there's a conviction that this is going to go through quickly or not quickly, it's just you got to write something down and this is something that people wrote down.
+[ 11.7 min] And so, you know, we don't debate how long, how do you do that? We wouldn't be able to debate what the length of or size of these effects would be, we just have to kind of make an individual statement.
+[ 11.9 min] And also, you know, what you've written down before will be, you'll be reluctant to move too far away from that just because you don't know it's so unclear what the direction from this particular hand will be.
+[ 12.1 min] Meanwhile, the economy has, the growth has been solid and inflation that the overshoot is mainly from the goods and tariffs.
+[ 12.3 min] And, you know, the labor market is the unemployment rate, of course, is a little change since September. You have very, very low break even rate apparently for new jobs with little growth in either demand or supply.
+[ 12.5 min] But the US economy is doing, you know, pretty well. It's just we don't know what the effects of this will be and really no one does.
+[ 12.6 min] Let's see.
+[ 12.7 min] Mr. Chair, in the past, the staff has suggested that higher oil prices, they have a hit to consumption which Howard was talking about, but that's somewhat offset by increased domestic production.
+[ 12.9 min] And one of you could talk about that dynamic, especially to the extent that how much US production is happening right now.
+[ 13.0 min] So, the first thing is, there is, you know, the original thinking, the long standing thinking put it that way is that you do look through energy shocks.
+[ 13.2 min] But as I mentioned, that's conditioned on inflation expectations and that kind of thing. So, sorry, your question was what the staff is saying about and that has said in the past.
+[ 13.4 min] So, that's true. You know, we have, we're a net exporter of energy, right? So, any effects on employment and economic activity and spending would be offset to some extent by the fact that our oil companies will be more profitable and they may even do more drilling.
+[ 13.6 min] If you ask oil companies about doing more drilling though, they're going to want to see, you know, a consistent rise in oil prices from where they were before the build up for the war.
+[ 13.9 min] And they're going to want to believe that that's going to be persistent for fairly long time.
+[ 13.9 min] So, they're not sitting there waiting for oil to go over $70 a barrel and then they're going to start drilling whatever.
+[ 14.1 min] They're going to make a reasoned careful judgment that we're going to have higher oil prices for an extended period, meaningfully higher.
+[ 14.2 min] So, you don't, I wouldn't say there's much of that happening, not much of what will be happening now, but some of that could happen over time if you see that.
+[ 14.3 min] So, the net of it, the net of the oil shock will still be some downward pressure on spending and employment and upward pressure on inflation, of course.
+[ 14.5 min] And if I could just follow up on Kobe's question, how much do you worry that having looked through tariff inflation and inflation running above target and looking through the oil price shock would undermine the credibility of your commitment to the supercent target?
+[ 14.7 min] We have to do our analysis and think these things through carefully, but of course that's on everyone's mind.
+[ 14.8 min] We're well aware of the history, but you don't want to overreact to that.
+[ 14.9 min] You want to make the best judgment you can based on the facts.
+[ 15.0 min] I don't think we're going to let it color our decision making more than is appropriate.
+[ 15.1 min] It's more of the thought that it's been five years and we've actually had the tariff shock, we had the pandemic, and now we have an energy shock of some size and duration.
+[ 15.2 min] We don't know what that's going to be actually.
+[ 15.3 min] And it's one of those things where it's a repeated set of things.
+[ 15.3 min] And you worry that that's the kind of thing that can cause trouble for inflation expectations.
+[ 15.5 min] And so we worry a lot about that, and we are very strongly committed to doing what it takes to keep inflation expectations anchored at 2%.
+[ 15.6 min] And I think it's important that we do that very important.
+[ 15.7 min] Nick.
+[ 15.8 min] Nick Timmeros, Wall Street Journal.
+[ 15.9 min] Chair Powell, you've described monetary policy as modestly restrictive.
+[ 15.9 min] If the unemployment rate is roughly stable, inflation moving sideways in the high twos, with an ongoing overshoot in services and non-housing services, not just goods, and the economy doing fairly well as you just outlined.
+[ 16.1 min] What gives you confidence that inflation returns to target over the next couple of years?
+[ 16.2 min] Okay, so I would say that the rate is you can characterize it as into high end of neutral or you can characterize it as perhaps mildly restrictive, even modestly restrictive.
+[ 16.4 min] No one knows for sure, but it's in that range where it's somewhere around the border line between restrictive and not.
+[ 16.5 min] Remember that a big part of the disinflation we're looking for is just the runoff of, when tariffs are put into place, of course what they do is they raise prices to some extent, to the extent those prices are paid by consumers, on a one time basis.
+[ 16.8 min] And we're waiting for that process, it takes 8, 9, 10, 11 months, a year to go through the system.
+[ 17.0 min] And we're waiting for the tariffs which were put in place over the course of the middle part and later last year.
+[ 17.1 min] We're waiting for that to go through the system so that goods inflation will return closer to what it's always been.
+[ 17.2 min] It used to be for many, many years, it was negative and then the year before tariffs came and it was zero and it's running at like 2% now.
+[ 17.4 min] And so that's kind of goods inflation is running at 2%.
+[ 17.4 min] So that's not coming from standard Phillips curve restrictive policy.
+[ 17.5 min] It's coming from the runoff of a one time thing.
+[ 17.6 min] We also think it's important to keep policy either mildly restrictive or close to that, but not too restrictive because of the weakness in the downside risk in the labor market.
+[ 17.8 min] We are balancing these two goals in a situation where the risks to the labor market are to the downside which would call for lower rates and the risks to inflation are to the upside which would call for higher rates or not cutting anyway.
+[ 18.0 min] So we're in a difficult situation and we feel like our framework calls on us to balance the risks and we feel like where we are now is just kind of on that border line, the higher border line of restrictive versus not restrictive.
+[ 18.2 min] We feel like that's the right place to be.
+[ 18.2 min] Can I ask about corn on housing services though because there are some people who think that it hasn't come down very much if at all over the past year.
+[ 18.4 min] If wage growth has come down, if the labor market has loosened, why hasn't on housing services inflation maybe been slower to follow?
+[ 18.5 min] That's a good question.
+[ 18.6 min] It's frustrating. Labor non-housing services have basically moved sideways for a year. They're at the same level.
+[ 18.7 min] And we do expect that they will come down, but it's a bunch of idiosyncratic things but at the same time that is one of the things we should be seeing because to your point, the labor market is clearly not a source of inflationary pressures and that should really matter for non-housing services but we're not seeing progress there.
+[ 19.0 min] So what we expect for next year is continued what we want to see for this year rather is continued progress on housing services, finally seeing that goods inflation come back down because the one of the time effects of tariffs are through.
+[ 19.2 min] And then also get some help from non-housing services. That's what we like to see.
+[ 19.3 min] But it's a good question why we didn't see much of that last year.
+[ 19.4 min] Thank you.
+[ 19.4 min] Thanks, Sherpa. Edward Lawrence with Fox Business.
+[ 19.5 min] So in December, we saw employment numbers revised down to negative 17,000 January, revised down February, posted a loss of 92,000.
+[ 19.6 min] Is the employment side of far greater risk than the inflation side?
+[ 19.7 min] Because we are seeing inflation, CPI is close to 2%, PCE has ticked down overall.
+[ 19.8 min] You know, it's really, I wouldn't say that. I wouldn't say that that's clear at all that one is more at risk than the other.
+[ 19.9 min] So you can point to the unemployment rate being stable and in a world where both supply and demand for workers have come down very, very sharply over the course of the past year due to immigration policy largely.
+[ 20.1 min] You know, a ratio is going to be a better thing to look at than job creation, for example.
+[ 20.2 min] So, and the ratio is at the unemployment rate and it's been stable since September. So that tells you that inflation, you know, you can, you can, we're, we're at 3.0% core inflation 2.8% headline.
+[ 20.4 min] So we've been well above the 2%, that, that amount, whatever it is, 0.7.8%, or a full percentage point, about 2% for some time.
+[ 20.6 min] And that's a concern, you know, we need to get back down to 2%, and we need to keep focused on that even though we do now face some, some new inflation from energy.
+[ 20.8 min] So I, I'd be hard pressed to say that one of them is obviously more at risk than the other.
+[ 20.9 min] And if I may, what happens, if there's no Federal Reserve Chairman confirmed on May 15th, would you stay on?
+[ 21.0 min] So, if my successor is not confirmed by the end of my term as Chair, I would serve as Chair Pro Tem, until he is confirmed.
+[ 21.1 min] That is what the law calls for. That's what we've done on several occasions, including involving me, and it's what we're going to do in this situation.
+[ 21.3 min] And while I'm at it, on the question whether I will leave while the investigation is ongoing, I have no intention of leaving the board until the investigation is well and truly over with transparency and finality.
+[ 21.5 min] And I would refer you to the statement that was in the Fed's brief that you all have seen, and I wouldn't have anything more for you on that.
+[ 21.6 min] On the question of whether I will then continue to serve as a governor after my term ends and after the investigation is over, I have not made that decision yet.
+[ 21.8 min] And I will make that decision based on what I think is best for the institution and for the people we serve, figuring you probably were going to set the dominoes off there.
+[ 21.9 min] And I'm not going to have any more to say on those issues, by the way.
+[ 22.0 min] Thank you very much, Claire Jones, for on the financial times.
+[ 22.1 min] People have drawn quite a few historical parallels with the current situation we've seen oil price shocks in the past.
+[ 22.2 min] Some people have said the first Gulf War and the Fed's response to that, whether it was a focus on the growth risks, is the right parallel to what extent would you agree with that and to what extent do you think we're in a different place today?
+[ 22.4 min] Thank you.
+[ 22.5 min] You know, it's really hard to say until we see the situation, the actual situation.
+[ 22.6 min] In some circumstances that might be the right case, in fact, for example, if we do see the kinds of disinflationary progress that we expect to see with due to tariffs that I mentioned, I think it's hard to say, and it will depend on some extent on the size and duration of the effects we're seeing on prices.
+[ 22.9 min] And it will depend a lot on what we can see in inflation expectations.
+[ 23.0 min] I just want to follow up if I may just on the BLS report, and that was mentioned briefly there.
+[ 23.1 min] It doesn't seem from the projections or from the comments you've made today about the unemployment rate and focusing on that, that your view on the labor market story through a large pot being a supply side story has changed.
+[ 23.3 min] Despite the quite negative number in February, would that be the right take and was there anyone else in the room who thought differently and that the February jobs report was caused for concern?
+[ 23.5 min] So I think you have to take the two together.
+[ 23.5 min] You know, the way the January report was a positive surprise and the February report was a negative surprise.
+[ 23.7 min] If you put them together, you get something in the middle, and I think you have to really, as you do, I'm sure realize there was a strike and there was weather and that's about 80,000 of the negative effect total on the February report.
+[ 23.9 min] Notwithstanding that, so what do you see if you take a step back overall?
+[ 24.0 min] There are a number of indicators that suggest a degree of stability, but the thing that I think good number of people in the committee are concerned about is just the very, very low level of jobs.
+[ 24.2 min] If you adjust what has been the trend job creation over the past let's say six months, if you adjust that for what we think our staff thinks is the overstatement due to overcounting effectively there's zero net job creation in the private sector.
+[ 24.4 min] But actually that looks like that's about what the economy needs in terms of dealing with very, very low, non-existent really growth in the labor force.
+[ 24.6 min] Of course we've never had in our history, so you've got a sort of a zero employment growth equilibrium.
+[ 24.7 min] Now that's balance, okay, but I would say it does have a feel of downside risk and it's not kind of a really comfortable balance.
+[ 24.9 min] We look at that, we see it, we get it, and everybody understands the arithmetic, and you can say the break even is zero, but nonetheless it's something we're watching carefully, and are concerned about.
+[ 25.1 min] But ultimately, though, you can argue that it's a consequence of deliberate policy, which is really the changes to immigration.
+[ 25.3 min] That's the biggest factor there, but nonetheless something we watch carefully.
+[ 25.4 min] Andrew.
+[ 25.4 min] Thanks, Chair Powell. The economy's experienced a series of supply shocks in the last few years.
+[ 25.5 min] COVID tariffs, two oil price shocks. Do you think that is bad luck or is something changed in the world that makes supply shocks more common and does essential banking to start taking an account of the risk of supply shocks as a more common problem?
+[ 25.8 min] We did go through a long period of where the shocks were all demand shocks, and so we've had a lot of practice thinking about supply shocks in the last four or five years, for sure.
+[ 26.0 min] And it's just a very different thing and a very much more difficult thing because it does immediately raise the question of tension between the two parts of our mandate.
+[ 26.1 min] But, you know, it has the world changed. I mean, COVID is a one-time sang, right?
+[ 26.2 min] This energy supply shock is a one-time thing. It's not because of some broad tendency or anything I don't think.
+[ 26.4 min] And, you know, the oil shock under with Ukraine was also a consequence of military action.
+[ 26.5 min] So, I don't know that the world has changed in a way that they'll be more supply shocks.
+[ 26.6 min] But, you know, there's people have written that paper and that speech a number of times.
+[ 26.6 min] A number of people have tried to make the case that that is the case.
+[ 26.7 min] In fact, we have seen more supply shocks in the last five years than we've seen in many years before that. It's a fact.
+[ 26.8 min] Okay. You said last year that the Fed was reviewing its communication strategies, including the SEP as part of its framework review.
+[ 27.0 min] Whatever happened to that, and I have like five follow-ups to that, but I guess, you know, what would you change about Fed communications if you had the time?
+[ 27.1 min] What happened about that was not much, and I'll tell you why.
+[ 27.2 min] So, you know, we looked carefully at many aspects of the SEP and of our communications, and there weren't any ideas that had very broad support on the committee.
+[ 27.4 min] And, you know, you don't want to make a change to your communications unless you have the committee behind that.
+[ 27.5 min] So, we didn't really make any changes on that.
+[ 27.5 min] You know, I had hoped that some things that I wanted to do, but they just, they didn't attract broad support, and we'd already made all the changes we made.
+[ 27.7 min] To the framework, that was a critical thing.
+[ 27.7 min] So, we didn't.
+[ 27.7 min] You know, I wish we had been able to do some things, but, you know, we didn't.
+[ 27.8 min] So, maybe the next year, we'll take a look. I'm sure he will.
+[ 28.0 min] Michael McGee from Blueburg Television and Radio.
+[ 28.0 min] The minute show in January, some members of the committee wanted to include a two-sided guidance on policy.
+[ 28.1 min] Was that discussed today, and given the rise in the inflation expectations, how much support for a two-sided policy warning would there be?
+[ 28.3 min] So, it did come up today. The policy that are the possibility, rather that our next move might be an increase, did come up at the meeting.
+[ 28.4 min] As it did at the last meeting, the vast majority of participants don't see that as their base case.
+[ 28.5 min] And, of course, we don't take things off the table.
+[ 28.6 min] But, you correctly characterized, you know, what was in the minutes that several participants indicated in something very much like that conversation did happen.
+[ 28.7 min] What was your second question, though?
+[ 28.7 min] I was just one question there, but a follow-up would be, there are a lot of goods besides oil that are trapped in the straight right now, and a lot of supply chains getting snarled.
+[ 28.9 min] How much concern do you have about whether if this becomes an inflation problem beyond just oil, whether there's anything you can do about it, or would do about it, given the efficacies of monetary policy?
+[ 29.2 min] You know, you can worry about other commodities. You can worry about all of the ways that oil-related commodities go into manufacturing and that kind of thing.
+[ 29.3 min] The truth is, it's completely out of our hands, and we just, like everybody else, we have to just wait and see what happens, and it'll come down to how long the current situation lasts.
+[ 29.6 min] And then what are the effects on prices, and then how to consumers react in that kind of thing?
+[ 29.7 min] Really, we, I wouldn't speculate in any way, and there's really not a lot we can do other than kind of watching and see.
+[ 29.9 min] I wanted to ask you, you've said longer-term versions of inflation expectations reflect confidence that the Fed will get back to its 2% goal, but there are some colleagues of yours who have pointed to higher dispersion in household service and business service as well.
+[ 30.2 min] So, and that they take as a signal that inflation expectations may be less sticky than in the past.
+[ 30.3 min] I'm wondering if there was a discussion around that, at this meeting, across the committee, and what were the views of what is the state of inflation expectations and the risks of from higher oil and gas prices?
+[ 30.5 min] So, at this meeting, I mean, a number of people mentioned, and staff briefed on short-term expectations, having moved up quite a lot for reasons we understand well.
+[ 30.7 min] But long-term expectations, you can always find one that's troubling or some aspect of one that's troubling, but ultimately, right through this whole period, the overwhelming majority of the things we look to, including markets, including surveys of the public,
+[ 31.0 min] and also of forecasters, they've all been pretty solid on longer-term inflation expectations, being right where they need to be, consistent with 2%.
+[ 31.2 min] So, that continues to be the case. We didn't have a lot of conversation about that. I think everyone does agree that we'll be watching those extremely carefully, as we see the effects of the price increases come through from the conflict.
+[ 31.5 min] And still, on how the discussion went across the committee, before coming to this meeting, there were some members who were discussing the risks of slow-downing growth, and at a time where inflation remains high.
+[ 31.7 min] It really doesn't seem that most members are penciling in slow-downing growth, but has there been any discussion of the risks of inflation at this point?
+[ 31.9 min] So, people actually wrote up their growth forecast by a tenth, and I think that's probably to do with just growing confidence in productivity.
+[ 32.1 min] But so, sorry, and your second question was just...
+[ 32.2 min] If there have been any discussions about the risk of stack-flation scenario.
+[ 32.2 min] Yes, so, as I mentioned, there's tension between the two goals. The upward risk for inflation and downward risk for employment.
+[ 32.4 min] And that puts us in a different situation.
+[ 32.4 min] When we used the term stack-flation, I always have to point out that that was in 1970's term at a time when unemployment was in double figures, and inflation was really high, and the misery index was super high.
+[ 32.7 min] And that's not the case right now. We actually have unemployment really close to longer-run normal, and we have inflation that's one percentage point above that.
+[ 32.8 min] So, calling that stack-flation, I would reserve the term stack-flation for a much more serious set of circumstances. That is not the situation we're in.
+[ 33.0 min] What we have is some tension between the goals, and we're trying to measure our way through it. It's a very difficult situation, but it's nothing like what they faced in the 1970's, and that's...
+[ 33.2 min] I reserve stack-flation for that, the word for that period. Maybe that's just me.
+[ 33.3 min] Let's bet.
+[ 33.3 min] Thanks, Mocha. Liz Vishalsley with ABC News. President Trump says that oil prices and overall inflation will go down very rapidly as soon as the war ends. Do you agree with that?
+[ 33.5 min] I don't have a forecast on that.
+[ 33.5 min] Right.
+[ 33.5 min] When we're thinking about the impact on American households, as you know, they've been facing these higher prices for years. They've seen an almost $1 increase in gas.
+[ 33.7 min] How worried are you about households, especially lower-income families, being able to afford those price hikes, and should people be bracing for higher costs, including for food now?
+[ 33.9 min] We don't know how big these effects are going to be, and I don't want to characterize them in any way.
+[ 33.9 min] Of course, people are already seeing gas prices. Gas prices are up almost a dollar, a gallon.
+[ 34.0 min] We hope that isn't for a long period of time, and of course people will feel that, but I don't want to speculate about what that might mean, because, honestly, that would sound like I have some idea of what's actually going to happen, and I don't think anybody really does.
+[ 34.3 min] We're going to see how this works out, and I just would leave it at that.
+[ 34.3 min] Victoria.
+[ 34.4 min] Hi, Victoria Guido with Politico.
+[ 34.5 min] I just wanted to ask for purposes of the next meeting, how the Middle East word develops between now and then, how are you thinking about what might guide action at your next meeting?
+[ 34.7 min] If we have oil prices above $100 a barrel, the entire time until the next meeting, is that going to change your weight and see stance?
+[ 34.8 min] What would lead you all to move, or are you going to hold pretty indefinitely?
+[ 35.0 min] We'll have to wait and see.
+[ 35.0 min] I mean, we always say we're going to learn more by the next meeting, and usually we do, but in this case, we're going to learn a lot, because we're going to learn six weeks to the day till the next meeting, and we're going to see what happens.
+[ 35.2 min] It's going to be very important for the way the economy looks and the way the outlook evolves with what happens in Middle East.
+[ 35.4 min] I think that's going to be a big factor, and we'll know that then.
+[ 35.4 min] I don't know how it's going to affect our thinking.
+[ 35.5 min] We did talk about alternative scenarios a little bit, but I wouldn't bring that in here.
+[ 35.6 min] It's very uncertain, and I just want to just remember that we don't know, and we shouldn't assume it's going to be one thing or another.
+[ 35.7 min] Is it a matter of you don't know how the situation itself is going to evolve, or even if things remain as they are, the economy can still remain relatively durable?
+[ 35.9 min] In face of them?
+[ 35.9 min] Yeah, that's true, too.
+[ 35.9 min] The US economy has just made it's been strong through a whole bunch of challenges.
+[ 36.1 min] If you go back to 2023 when we raised rates a lot in 22 and 23, and close to 100% of economists called for a recession, which didn't happen.
+[ 36.3 min] In fact, 2023 was a really strong year.
+[ 36.3 min] The US economy has really been just doing pretty well through a lot of significant challenges over the past few years.
+[ 36.5 min] It's been amazing to see.
+[ 36.5 min] Again, I don't know what's going to happen in the next inter-meeting cycle, and I don't know what's going to happen in the Middle East.
+[ 36.6 min] I wouldn't want to speculate.
+[ 36.7 min] Hi, Chair Powell. Thanks for taking our questions.
+[ 36.8 min] What makes you so certain that tariff-related price increases will be a one-time effect?
+[ 36.9 min] I don't think we've seen you since the Supreme Court tariff decision, and it's pretty clear that none of us know what the extent of the tariff shock will be as the administration moves to replace some of the tariffs that were overturned.
+[ 37.1 min] I suppose I'm curious what would make you question this certainty that tariff is going to be a one-time price effect?
+[ 37.3 min] I would not at all use the word certain about my views on that. I'm not certain.
+[ 37.4 min] If you think about what it is, it's a one-time increase in the price of a good.
+[ 37.5 min] And what inflation is ongoing increases in prices this year, next year, the year after.
+[ 37.6 min] That's what inflation is. It's not a one-time price increase.
+[ 37.7 min] There's a very, very big difference. The public doesn't really focus on that, but that's the difference.
+[ 37.7 min] And tariffs should be, in theory, unless they cause people to start expecting still more tariffs the next year and still more tariffs the next year, they should be a classic one-time thing.
+[ 37.9 min] People say the same thing traditionally about an energy price spike because traditionally prices go up and they come back down.
+[ 38.1 min] And by the time monetary policy would react, you know, you would be over.
+[ 38.1 min] So I don't have tons of confidence on that. I mean, I think the theory is probably right.
+[ 38.2 min] But as usual, the time it takes to get all the way through the economy is just very uncertain.
+[ 38.3 min] And we found that coming out of COVID that the inflation did go away and largely for the reasons we thought it would, but it took two years longer than we thought.
+[ 38.5 min] And so I think we have to be humble about knowing how long it will take for tariffs to go all the way through the economy.
+[ 38.6 min] And so what we've been doing is our staff's been doing, it's very interesting.
+[ 38.7 min] They started off with just an estimate because there wasn't a real history.
+[ 38.8 min] And then they built, based on the history that they're seeing of tariffs coming through into prices.
+[ 38.9 min] They've now, they can now have an arc. And for all the tariffs, they can say, well, you know, so we have, I think a slightly more confidence that we will see tariff inflation coming down, not prices, but you won't see further increases.
+[ 39.1 min] And we should start seeing that more and more in the middle parts of the year. We do expect that.
+[ 39.2 min] Now, you're also right, though, that the level of tariffs came down fairly meaningfully in the wake of the court decision.
+[ 39.4 min] But the administration said they're going to move the, they're going to get that rate right back up to where it was.
+[ 39.5 min] And we assume they'll do that over time. So that's how we think about it.
+[ 39.6 min] Thank you.
+[ 39.6 min] Hi, thank you. Chris Ruege, the Associated Press. I wanted, you talked about the shortcomings of the SCP in this environment.
+[ 39.8 min] I wanted to ask about or throw in an additional thing, which is the fact that it's happening before transition.
+[ 39.9 min] Is there still some value, perhaps, in the public knowing what other federal officials are thinking, the ones who will stay on for the rest of the year and beyond.
+[ 40.0 min] And does that even handicap your successor in any way?
+[ 40.1 min] Well, just in terms of having a whole committee expressing its views, does that something that locks them in for the rest of the year?
+[ 40.3 min] No, no, no. The SCP is never, people are more than happy to change their SCP dots. They're no way bound by them.
+[ 40.4 min] You know, it's your opinion at a moment in time which can change based on events, you know, sometimes very quickly.
+[ 40.6 min] So it doesn't, it never locks people in, you know, people are more than happy to be proven wrong in either direction.
+[ 40.7 min] And so I just think we do it. And you know, we, this was, I mentioned, this was a time when it's very hard to do it.
+[ 40.8 min] During the pandemic, we actually took one meeting off, I think.
+[ 40.8 min] And, but, you know, we don't want, we don't like to do that. Just because it's hard to do, we should just keep doing it.
+[ 40.9 min] But I just would say for this one, though, I think it's, it's more than, even more than usual, good to take it, take the forecast with a grain of salt because subject to just very high levels of uncertainty.
+[ 41.2 min] Brian.
+[ 41.2 min] Hi, Chair Powell, Brian Chung with NBC News. So you mentioned at the beginning of this conversation that you're well aware of the history of inflation running above target.
+[ 41.3 min] It seems like that might be what's underpinning the affordability problem that we're hearing a lot about on Main Street.
+[ 41.4 min] Are there any signs to you that that's impacting the psychology of the consumer, especially given that they're a big driver overall economic activity?
+[ 41.6 min] Hey, you know, I'm not sure what's, that's all about, but I'll tell you what I think and what we see in surveys, and that is, you know, people, there were big price increases all around the world, by the way, everywhere in countries like the United States had basically the same kind of thing.
+[ 41.9 min] The thing was that global inflation coming out of the pandemic, and everywhere people are feeling like they, you know, real wages have been going up in the United States now for three years, roughly.
+[ 42.0 min] But people are not feeling like, they're not feeling good about it yet, and it will take some years of positive real, real earning gains for people to feel good again, we think.
+[ 42.2 min] But you're right.
+[ 42.2 min] When you talk to people, they do feel squeezed, and you know, there are areas where prices are still going up, like insurance, various different kinds of insurance are getting more and more expensive, and that's just catching up really from inflationary pressures that take a while to get to the price into the price.
+[ 42.6 min] So we take it very seriously, we don't dismiss it at all.
+[ 42.6 min] It's a very real thing from the standpoint of what people are experiencing, and you know, what it does for us is, you know, makes us even more committed if that's possible to getting inflation back to 2% on a sustained basis.
+[ 42.9 min] How does the Fed's independence play into the ability to address affordability?
+[ 43.0 min] Well, independence is what allows us to do our jobs, and, you know, stable prices is half of our mandate, it's one of our two mandates, maximum employment being the other.
+[ 43.1 min] I mean, every look at every advanced economy that looks anything like the United States anywhere in the world, you know, market economy, in a democracy, and you'll see, you know, pretty much
+[ 43.3 min] that central bank independence looks a lot like in some cases stronger than what we have, but it's critical that we have that so that we can do the things when we need to do them to preserve price stability.
+[ 43.5 min] And it's an accepted standard practice, and I think has a lot of support certainly in Congress, which is where our oversight is in Congress, and you see that among Democrats and Republicans in the House and the Senate.
+[ 43.8 min] Hi, Chair Powell. Richard Eskibido, CBS News. Thanks for doing us.
+[ 43.9 min] Two questions. One, how high would oil prices and broader inflation have to go, and for how long for the committee to consider hiking rates?
+[ 44.1 min] And then secondly, diesel prices are rising faster than gas prices. How concerned are you that the increase in diesel might drive up food and goods prices and lead to broader inflation?
+[ 44.3 min] Yeah, I'm not going to give you an example. Example or specific answer on the first question. You know, we're prepared to do what needs to be done, but I wouldn't want to hypothesize about what that might be.
+[ 44.5 min] In terms of diesel prices, what's your question there, is are we concerned about it? How concerned and whether or not it will drive up the cost of food and other goods that really rely on it?
+[ 44.7 min] It's a more general concern than that. It's diesel prices because that's transportation of food and things like that. There are just lots of ways that oil and derivatives of oil get into the production and transportation of many, many things.
+[ 44.9 min] And those big effects on headline inflation, but things like that leak into core as well, and the effects may not be as big, but they're quite real in their material.
+[ 45.1 min] So we are aware of that, and we're watching it, but we're right at the beginning of this, and we just don't know how big this will be and how long it lasts.
+[ 45.3 min] It may or may not be something that really makes a big imprint on the U.S. economy. We're just going to have to wait and see.
+[ 45.5 min] Thanks very much. Just to sort of stare into the future for a little bit. I was looking at the longer run bits of the SEP, and notice that the growth estimate had been revised up a good chunk from 1.8 to 2, and the kind of long-term Fed funds rate as well.
+[ 45.7 min] It'd be great just to hear, is that AI productivity or what's going on there exactly?
+[ 45.8 min] Yeah, I think it's just productivity. We actually started seeing, meaningfully higher productivity some years ago, four years ago, five years ago, and that's not because of generative AI.
+[ 46.0 min] We won't know for years what it's really due to, but it could be due to the kind of things that people did during the pandemic to economize and somehow become more productive because there was an incredible labor shortage.
+[ 46.2 min] But I think economic forecasters are very skeptical of periods of high productivity because they're so rare and they're often revised away, and for many years I never thought I'd see this many years of really high productivity and by the way expected to continue.
+[ 46.6 min] We haven't really started to see the effects of generative AI, and that should certainly contribute to that. It's quite unusual, and this is the higher productivity is the thing that allows incomes to rise over time.
+[ 46.8 min] It's a great thing. Was that your question?
+[ 46.9 min] Yeah, I was just curious what lay behind that, and just replete on that as well to finish up. You hear the argument a lot, this is a disemplationary story, and if you believe that productivity thing, that should also weigh down inflation over time, maybe then pull down where rates end up.
+[ 47.1 min] Do you agree with that line of thinking, or do you think that's not how you should think about where the rates are?
+[ 47.2 min] I think you have to be cautious about that, and in particular if you're talking about AI, about generative AI, so remember in the short term what's happening is we're building data centers everywhere, and that's actually putting pressure on all kinds of goods and services that go into building these things, so that's actually probably pushing inflation up at the margin.
+[ 47.5 min] In addition, it probably raises the neutral rate, so in the near term you're looking at something that would immediately call for lower rates, or that would be lowering inflation.
+[ 47.8 min] Over time though, sure, it can be a, if it's expanding potential output, which is what productivity does, then it actually can be.
+[ 47.9 min] But I think it's an empirical question because it's really, is the demand growing faster or slower than the supply side?
+[ 48.1 min] And I think we just don't know that answer X-anti going in. We'll just have to wait and see. Thank you very much.

@@ -1,0 +1,388 @@
+[  0.1 min] Good day. My second FOMC committee meeting as chairman has come quickly. It's
+[  0.3 min] probably too early to call it a streak but our discussions again were collegial
+[  0.3 min] and constructive. I'm truly lucky to work with colleagues so capable and mission-
+[  0.5 min] focused and so determined, like I am, to sharpen the performance of the Federal Reserve.
+[  0.6 min] Today, as you know, our committee decided to vote by a 9-3 vote to maintain the target
+[  0.7 min] range for the Federal Fund's rate at 3-1-1-2-3-3-4%. The committee is continuing its policy
+[  0.8 min] of making ample reserves in the banking system. The economy is showing impressive resilience,
+[  0.9 min] even with recent shocks that trends are positive and reveal solid growth. Job gains have
+[  1.0 min] kept pace with the workforce and the unemployment rate has changed little. Inflation remains elevated
+[  1.1 min] relative to the committee's 2% goal. The committee remains resolute. You've heard this before but
+[  1.3 min] we will deliver price stability. As before, the policy statement conveys just the facts. It's
+[  1.4 min] steering clear of forecasting. A choice we consider especially prudent at these uncertain times.
+[  1.5 min] Uncertainty, however, does not mean a lack of clarity. For some households, businesses
+[  1.6 min] and market professionals, five years of high inflation have left a mistaken impression.
+[  1.7 min] That's hard to shake. But the Fed's implicit inflation target was somehow above 2%. Let me reiterate,
+[  1.9 min] there is no soft inflation target. There is no soft implicit target, not on this committee's
+[  2.0 min] watch. There's only a target and it's 2%. Not one of my FOMC colleagues is under any illusion.
+[  2.2 min] We've begun a new chapter and we understand that the 5-plus years of inflation above target cannot
+[  2.3 min] be cured in 9 weeks or by a single month of modest price decreases. This Fed will not waver. Our
+[  2.5 min] credibility rests on performing our duties and delivering on our responsibilities. Americans are
+[  2.6 min] right to expect that because our nation's prosperity depends on it. So the regulars here in the
+[  2.7 min] press room, today's assessment might sound familiar, yet there was nothing inertial about our
+[  2.8 min] discussions, our policy, or our strategy. Two economic developments are worth highlighting. The
+[  2.9 min] first is a very notable change since our last meeting 42 days ago. Nominal and real yields are
+[  3.1 min] materially higher across the Treasury curve. In fact, some of the increases in market interest rates
+[  3.2 min] between FOMC meetings are among the most significant in the last two decades, ranking around the
+[  3.3 min] top desial or so. But if the committee didn't change its policy, right? What happened? In the
+[  3.6 min] past, this is reacted in real time to incoming information. And the reduction in forward guidance may
+[  3.7 min] have been a factor. Market participants are learning to play the ball, not the referee. And market
+[  3.8 min] prices will continue to respond in the direction and magnitude they see fit. This is in my view a
+[  4.0 min] change for the better. And we're just getting started. After all the central bank need not always
+[  4.1 min] at everywhere be the center of attention. I understand the desire for rolling forecasts and commentary
+[  4.2 min] from this committee. But for our part, we need to observe market reaction to developments, direct
+[  4.3 min] and unfiltered. I want to stress, of course, that decisions by this committee matter a great deal.
+[  4.5 min] And where necessary and appropriate, we will not hesitate to act. A second economic development is one
+[  4.6 min] that I noted at the Congressional Oversight hearings this month, but it's worth repeating. The most
+[  4.7 min] striking feature of the economy is the strong growth of business investment. The surge in high tech
+[  4.8 min] capex has been remarkable, but that does not necessarily make the Fed's role any easier.
+[  5.0 min] In the AI-related category of high tech equipment and software, the most recent data shows four quarter
+[  5.1 min] growth rates of nearly 20%. This is helping to sustain the healthy momentum of manufacturing output.
+[  5.2 min] More generally, capex is preparing the ground for future growth. Nonetheless, the precise timing
+[  5.4 min] and magnitude of effects on the supply side remain hard to predict. FOMC meetings produce policy
+[  5.5 min] decisions, but just as important is candid discussion of the big things that matter most.
+[  5.7 min] That too is a priority in this new chapter at the Fed. In our meeting, vigorous discussion centered
+[  5.8 min] on four questions which I will enumerate. First, we talked a lot about the implications of the past
+[  5.9 min] five years of high inflation on the current policy conjuncture. To an echo and old phrase has the past
+[  6.0 min] really passed. Second, my colleagues and I considered the economic shocks of recent years.
+[  6.2 min] Strane supply chains arising from the pandemic, military conflicts, energy supply disruptions,
+[  6.3 min] substantial increases in tariff rates, and yes, the surge in AI-related investment.
+[  6.4 min] These differ in their sources. Do they also differ in their effects on output and employment?
+[  6.6 min] Third, we took up the related question of price increases arising from shocks.
+[  6.7 min] The business capex boom, for example, is driving up prices of memory and logic chips
+[  6.8 min] and associated AI infrastructure. Do these changes indicate a broader inflationary dynamic
+[  6.9 min] or do we just focus on them because they are under the bright street light? Finally, we discuss monetary
+[  7.0 min] policy tools and strategies for achieving stable prices. If as the Fed has long held, interest rate
+[  7.2 min] policy should be its primary monetary policy instrument. How much accommodation are we getting from the
+[  7.3 min] launch sheet? In all of this, our work is advancing at the Fed. We're asking the right questions.
+[  7.4 min] And in this consequential time, we know how very much depends on getting the right answers.
+[  7.5 min] Of course, you've all arrived with questions of your own, so let's turn to them now.
+[  7.7 min] Thank you for taking our questions, Mr. Chairman.
+[  7.8 min] You've had a couple of months now or nine weeks, so whatever number it is, to see the markets behave
+[  7.9 min] in the absence of forward guidance. I'm wondering if you could tell me what message are you getting
+[  8.0 min] from the markets as to where policy ought to be right now?
+[  8.1 min] I think officially it's eight weeks and four days, but I'm not counting.
+[  8.2 min] The message from markets is the message from markets. What I've really been trying to do, Steve,
+[  8.3 min] as I think you appreciate your colleagues appreciate, is getting an unfiltered message from markets,
+[  8.4 min] getting a direct message, letting buyers and sellers meet at prices for treasuries, for the foreign
+[  8.5 min] exchange value of the dollar, and then trying to judge for ourselves, what does that mean about our
+[  8.6 min] remit? How are we doing on inflation? How are we doing on employment? We're trying not to interfere
+[  8.7 min] with that market signal. That's part of the reason why we've been somewhat spared in our words,
+[  8.8 min] when we pulled back from forward guidance, so they're reacting to events, I would say much more
+[  8.8 min] directly over the 42 days since we last met. This is a good thing. As I mentioned in the prepared
+[  9.0 min] remarks, we've seen a material tightening, not just in nominal rates, but in real rates too,
+[  9.1 min] and we're observing it, we're trying to stay out of that because many of you might be interested in
+[  9.2 min] our reaction function, we're interested in the reaction of financial markets. I get that, Mr.
+[  9.3 min] Chairman, and I guess the follow-up question is, if the markets are talking to you, what do you hear
+[  9.4 min] them saying, and if it's real rates are higher, it would suggest that that's where the funds rate
+[  9.5 min] ought to go? I'm sorry, it's your question. Interpreting markets is an imperfect business.
+[  9.7 min] We central bankers like market pros can think these things are over-determined, but let me offer
+[  9.8 min] some speculation. First, as we said in the FOMC statement that you got a two o'clock,
+[  9.9 min] the economy output is solid. CapEx and productivity are strong. Labor markets solid,
+[ 10.1 min] steady. The bond market, the treasury market, it seems to be saying that as well. I were to try to
+[ 10.2 min] break down, disaggregate the treasury market signals. I wouldn't be able to do it perfectly,
+[ 10.3 min] but the bond market's saying many of those same things, and that's why we're seeing a tightening
+[ 10.4 min] both in nominal and in reals. Even while at some level, we haven't done much in 42 days,
+[ 10.5 min] the markets have done quite a bit. Gladion's financial times. You seem to have got the
+[ 10.7 min] family fight you were after this meeting. We saw three descents. Could you characterize the
+[ 10.8 min] arguments that those descents put forward? Please tell us a little bit why you weren't persuaded by
+[ 10.9 min] them at this stage. Thank you. So I guess I shouldn't give you their best arguments. I'll give you
+[ 11.0 min] some others. So you're right. I asked for a good family fight and I got one. That's the purpose.
+[ 11.1 min] That's the design feature. I come into this meeting, even this press conference,
+[ 11.2 min] heartened by what I've experienced the last two days. Most of our discussion were on the big
+[ 11.3 min] questions that matter to the conduct of monetary policy. We didn't hide from them. We weren't scared
+[ 11.4 min] of them. There was a lot more interaction between among my colleagues. It was a real family fight.
+[ 11.5 min] My view, which you've long heard, is that's the better way to get policy right. That's our North
+[ 11.6 min] Star. So there was a lot of agreement that I heard that we have the powers, the tools,
+[ 11.7 min] also the authority to deliver stable prices, no walking back from our responsibilities.
+[ 11.8 min] There was a large majority support for the decision that we made in the room,
+[ 11.9 min] but I also want to leave you clear with one other impression. There was nothing inertial about that
+[ 12.0 min] discussion. It was an active robust discussion about what's in the full range of what we can do
+[ 12.1 min] and might want to do in the period ahead. You characterized accurately, there was a disagreement
+[ 12.2 min] about a decision today. I would say that doesn't sort of capture the full essence of the discussion.
+[ 12.3 min] The path central bank heaven requires delivering on our remit. These days that means delivering on
+[ 12.4 min] price stability. I wouldn't measure that path in 42 days or any one particular meeting and I came
+[ 12.6 min] out of that meeting even more confident that this is the right team to win the battle against high
+[ 12.7 min] inflation. How much do you think not going in July was down to the call CPI print for June?
+[ 12.8 min] So in two words, not much. I'd like to believe that the committee shares my views which is
+[ 12.9 min] the historic problem with data dependence is the data and the dependence. We are not relying on
+[ 13.1 min] any one individual piece of data as cover or as an excuse or as validation. What I care about and
+[ 13.2 min] what I think the committee cares about is trends on the data. Sure we got some encouraging inflation
+[ 13.3 min] data. I think at the meeting 42 days ago I said something like 63 months of inflation above target.
+[ 13.5 min] I didn't say 64 though the final calculation might be a close one. So we'll be watching inflation
+[ 13.6 min] data over the period ahead but I also don't want you to leave the misimpression that we're sort of
+[ 13.7 min] breathlessly waiting that. I've called for a task force to revisit both the private and public data
+[ 13.8 min] we use to make our decision making. That task force is out doing their work. I'll be checking back in
+[ 13.9 min] with them the next couple of weeks but I wouldn't say we overly relied on any one piece of data including
+[ 14.0 min] that data which surprised some a couple of weeks ago. Hi Chairman Worsh. Thanks Neil Irwin
+[ 14.1 min] Axios. Thank you for taking our questions. So the Fed Fund rate is now about 75 basis points below the
+[ 14.2 min] two-year yield. It suggests markets think you'll have to tighten eventually about 100 basis points
+[ 14.3 min] below most Taylor rule estimates. You're hitting your employment mandate inflation stays high. Why
+[ 14.4 min] should rates not be higher today? There's a lot in there Neil. So rates are higher than they were 42
+[ 14.5 min] days ago. Markets have made decisions because we step back in part from trying to influence those
+[ 14.7 min] market judgments have moved up on what nominal rates are across the Treasury curve. That doesn't mean
+[ 14.8 min] we take them as a by dictation but we're observing them. So I think it's a mischaracterization to say that
+[ 14.9 min] markets haven't reacted because we didn't move today. Markets are reacting in real time. In the
+[ 15.0 min] period ahead we've got important decisions to make about the policy rate. Markets in the intervening
+[ 15.2 min] period I think have quite a bit of decisions to make. We'll see if I can put it this way.
+[ 15.3 min] Monetary policy matters not just by what we say or even what we do. Monetary policy matters by how
+[ 15.4 min] it affects the real economy and these prices that we see in financial markets is one of the many ways
+[ 15.5 min] in which it affects the real economy. We'll be continuing to watch that market information see how
+[ 15.6 min] it responds to incoming events and that can help inform our decision making when we meet in seven or
+[ 15.7 min] eight weeks. How would you characterize in the family fight the last couple of days of you and the other
+[ 15.8 min] eight members who wanted to hold was that a strong conviction or was that a hair trigger close call
+[ 15.9 min] on holding versus Titan? Well I think the vote was nine to three. The broader discussion to my
+[ 16.0 min] ear over the course the last days showed a lot of agreement on the hard questions. The four
+[ 16.1 min] questions I raised at the outset about what's really happening in the economy with the shocks and
+[ 16.3 min] absent the shocks. What are tools and our capabilities? What's the effect on prices on output? I heard a
+[ 16.4 min] lot of commonality on the questions where there are different leans on the answers you bet there was
+[ 16.5 min] so could people come to different conclusions absolutely but my own judgment is this is a period of
+[ 16.7 min] watchful thinking not watchful waiting and I think the score on that vote was unanimous.
+[ 16.9 min] Thank you Colby Smith for the New York Times. You've mentioned that looking at the Fed's policy
+[ 16.9 min] tools is one element of a three-prong strategy to address the inflation problem so I'm curious how
+[ 17.0 min] you view the effectiveness of those tools. If inflation is too high and not coming down is the best
+[ 17.2 min] remedy to raise interest rates? So that's that was the discussion in the last two days. Is that the
+[ 17.3 min] dominant remedy? If inflation continues to be elevated through the forecast period interest rates
+[ 17.4 min] could well be part of that solution but I wouldn't say it's in isolation. I tried to describe in my
+[ 17.5 min] remarks today a point that I made and to the oversight committees a couple of weeks ago. I think
+[ 17.7 min] some financial markets by some households and businesses that central bankers like me we said a
+[ 17.7 min] 2% inflation target but maybe we were more tolerable of a somewhat higher inflation target in economics
+[ 17.9 min] we'd call that the revealed preference and so might it have been rational for people to think well
+[ 18.0 min] their inflation targets somewhat higher. What I heard in the last two days what I've heard eight and
+[ 18.1 min] a half weeks is no we will deliver the 2% inflation target that is the committee's definition of
+[ 18.2 min] price stability so one way absent the tools that you reference to ensure that we get there is ensure
+[ 18.3 min] that expectations are centered around the right number and I think we've made some progress on that.
+[ 18.4 min] I am not suggesting we're done on that it's worth reiterating and ultimately the business
+[ 18.5 min] we're in cold be as performance we are going to be judged by how we perform and that's what we
+[ 18.6 min] intend to do the inflation target making clear expectations is one part of it making sure we
+[ 18.7 min] demonstrate we're responsible for it we're not blaming as another and our policy tools like you
+[ 18.8 min] referenced is the third and equally consequential part. How are you factoring the fact that a large
+[ 18.9 min] portion of the inflation overshoot is being caused by supply shocks as it's mentioned again in the
+[ 19.0 min] statement does that blunt the effectiveness of rate hikes in your view.
+[ 19.1 min] First on the premise of your question it was almost as if you were listening to our discussion the last
+[ 19.2 min] day and a half a lot of our focus was on trying to understand and identify underlying inflation dynamics
+[ 19.3 min] amid shocks. We take these shocks seriously there have been a series of them that have been
+[ 19.4 min] hitting this economy. We're not looking through them and saying oh they don't matter but we're
+[ 19.5 min] trying to understand is to what extent are these shocks broadening in their effects broadening and
+[ 19.6 min] their impact on prices that are quite far removed from it. Our goal is to have growth that is
+[ 19.7 min] broadening and inflation that is becoming more limited more circumscribed. I'll be the first to
+[ 19.8 min] admit the shocks make this job and this policy conjuncture a little tougher but that's among
+[ 19.9 min] the chief questions we've asked ourselves and around the room people have different views on it.
+[ 20.0 min] I tend to think in the coming months we're going to refine that view and have a better judgment
+[ 20.1 min] and we're going to market prices trying to help inform it too.
+[ 20.3 min] Thank you Mr. Chairman. Edward Lawrence from Fox Business. I guess I want to drill down maybe
+[ 20.3 min] a little bit what specifically in your mind would be the argument then for a pause today.
+[ 20.4 min] So I wouldn't characterize what we did as anything like a pause. I would characterize what we did as
+[ 20.5 min] a rigorous review of the economic situation. I would characterize what we did as a review of the big
+[ 20.7 min] hard questions and I'd characterize it as a view of what our own homework is to try to resolve those
+[ 20.8 min] questions in the period ahead. If you were to try to force a description that this was a pause
+[ 21.0 min] I would say financial market prices would take the other side of that. Financial market prices in
+[ 21.1 min] this intermeeting period they didn't pause they reacted to the inflation data in one direction,
+[ 21.2 min] strong economic growth in the other direction and nominal and real rates went up. Did the Fed take
+[ 21.3 min] an explicit change in its policy rate today? No, but I think that's the beginning of the story,
+[ 21.4 min] not the end of the story. And if I could I did want to ask not forward guidance but looking forward.
+[ 21.5 min] Traditionally, a Federal Reserve chairman uses the Jackson Hole Summit as a sort of a reset of monetary
+[ 21.6 min] policy. How do you look at the speech that you're going to make in August? I look at it like a blank
+[ 21.7 min] piece of paper right now. I have not begun consideration with the incredible team here what would go
+[ 21.8 min] into that document. I think you characterized it correctly. Historically at least from my first
+[ 21.9 min] tour of duty at the Fed to more recent periods it would be sort of a setting up speech more often
+[ 22.0 min] than not of what was going to be happening in the fall. I haven't made any judgments on that
+[ 22.1 min] but those are judgments we'll have to come to. If I could in the High Mountain Air in Jackson,
+[ 22.2 min] Wyoming, I'd like to also frame the big questions. There is a tendency especially with the
+[ 22.3 min] proliferation of meetings and press conferences to get caught up in the myopic. Did you do this
+[ 22.4 min] by a quarter or do that? Ultimately whether we deliver on price stability matter some the decisions
+[ 22.5 min] we make in six or seven or eight week periods but they matter more what are the big questions?
+[ 22.6 min] What's really happening with productivity? What's really happening with demographics? What's really
+[ 22.7 min] happening to the global economy amid the shocks? Haven't made a decision whether it's going to be a big
+[ 22.8 min] picture speech or whether it's going to be a more traditional setup for all the action we're going
+[ 22.9 min] to have between September and December. I will tell you one other thing that I am doing between
+[ 23.0 min] now and Jackson Hole so I'm checking with those task forces. My first principle of establishing a
+[ 23.1 min] task force is find the best subject matter experts anywhere in the world and put them together,
+[ 23.2 min] especially put them together with the people who might disagree with them. In the next couple of
+[ 23.3 min] weeks I'm going to be doing a check back in given them time to sort of think hard about their agenda,
+[ 23.4 min] their debate, their schedule and when they might be ready for prime time. I'll be doing a little bit
+[ 23.5 min] of that checking and that may or may not inform anything I have to say in Jackson.
+[ 23.6 min] Nick Temeros of the Wall Street Journal. Chairman Worsher I want to follow up on Colby's question
+[ 23.7 min] about policy transmission. You've said there's no cruel choice between stable prices and full
+[ 23.8 min] employment. Rates bring inflation down by cooling demand. It's generally thought that can show up
+[ 23.9 min] in the labor market. If that's not the channel you're relying on, what is?
+[ 24.0 min] So let me go back to a first principle, Nick. I don't believe that either part of our mandate is
+[ 24.2 min] generally at war with the other part. I do not believe that price stability and full employment
+[ 24.3 min] isn't either or a proposition. There have been policy makers over the last several generations
+[ 24.4 min] who have thought that there is a strict trade off there. That isn't my judgment. In fact my judgment
+[ 24.5 min] is if and when we deliver on our remit we're going to be satisfying both prongs. We're going to have
+[ 24.7 min] price stability and full employment. And in fact, if you want to do the most harm to the labor
+[ 24.8 min] markets, you would run a period of high inflation that's variable such that employer's businesses
+[ 24.9 min] wouldn't really know what's going on. So I think the two parts of our mandate are equally
+[ 24.9 min] important. We have no legislative orphans here. I've been talking mostly about price stability
+[ 25.0 min] because we're doing pretty well collectively as a country, as policy makers on the full employment
+[ 25.1 min] side. But we're doing considerably less well on prices. That's why we describe them as elevated
+[ 25.2 min] and that's what's taken most of our discussion. In terms of transmission mechanisms of monetary policy
+[ 25.4 min] and in different tools work through different transmission mechanisms. The interest rates work
+[ 25.4 min] through lending channels and credit channels, maybe confidence channels and foreign exchange.
+[ 25.5 min] The balance sheet probably works through some other channels like signaling and portfolio balance.
+[ 25.6 min] We're keeping full abreast of all these tools in making policy. But if the suggestion is somehow we're
+[ 25.7 min] going to be fine tuning aggregate demand so it catches supply, that's not my mental model. I don't think
+[ 25.8 min] we're great in the fine tuning business. We're trying to get supply and demand in broad order,
+[ 25.9 min] but really what we're doing as we sit here today at this press conference. I think we've got a
+[ 26.0 min] reasonable sense of what aggregate demand looks like in this economy. We're inferring aggregate supply.
+[ 26.1 min] We're making a judgment about what productivity is. And in some sense there's a race between supply
+[ 26.2 min] and demand and the surge in business cap acts in around AI. It's making that calculation a little harder
+[ 26.4 min] to judge, but in the period ahead we're going to be trying to judge just that. And if I could ask,
+[ 26.4 min] where exactly was the disagreement today? Was it about the inflation forecast or was it something more
+[ 26.5 min] around the risks that the tactics? Yeah, so I'm going to let the dissenters speak for themselves.
+[ 26.7 min] The way I heard it over the last two days was overwhelming agreement on objectives and authority
+[ 26.8 min] and commitment. I didn't hear anybody walking away from it. The judgment says to how best to achieve
+[ 27.0 min] the price stability. That was probably the question that we were trying to answer. What's the best
+[ 27.1 min] move? What's the best strategy? What's the best way to achieve it? And a second question that was asked
+[ 27.2 min] is when do we need to make those harder calls? When do we need to make those decisions? And like I said
+[ 27.3 min] to one of your colleagues, I was comforted that markets in the intermeeting period weren't reacting
+[ 27.4 min] to us. They weren't reacting dots or to speeches. They appeared more than ever to be reacting to
+[ 27.5 min] real-time events. So they're gauging themselves the how restrictive the treasury curve should be.
+[ 27.7 min] And that I think has been a useful development. We don't endorse any particular market move,
+[ 27.8 min] but it also suggests we observe them with keen interest.
+[ 27.9 min] Janelle Marte with Bloomberg. Following up on that, there was more uncertainty in the markets about
+[ 28.0 min] what the Fed would do at this meeting. To some extent you might think that's what you want to see,
+[ 28.1 min] but my question is about is there a point at which you would not want to surprise the markets if they
+[ 28.2 min] were pricing in something with higher certainty that was opposite of what you were intending to do?
+[ 28.3 min] What are the risks that you see associated with that?
+[ 28.3 min] Yes, so it's a good question. Surprise is not the objective function. Surprise is not what we're
+[ 28.5 min] solving for. We have a clear North Star. What we're solving for is how to make the best decisions.
+[ 28.6 min] Almost everything else should be in service to that goal. By not spoon-feeding markets, by not previewing
+[ 28.7 min] our decisions, by not giving nudges and leans, my colleagues and I have found in the intermeeting
+[ 28.8 min] period what we're getting is the views from a very accomplished economist. That's the internals
+[ 28.9 min] of financial markets. Instead of just repeating or echoing what we are saying back to us,
+[ 29.0 min] they're giving us somewhat, not perfect, their own judgment. So surprises are not the objective,
+[ 29.2 min] but at the same time I would say we didn't come into this meeting feeling constrained by the full
+[ 29.3 min] range of alternatives we had in front of us. So some of your peers have continued to discuss how they
+[ 29.4 min] think about policy decisions and if you don't offer your reaction function or your way of thinking
+[ 29.5 min] about it, how concerned are you that you're seating control of the narrative? So not very concerned.
+[ 29.6 min] That's a short answer to the question. When some people that follow the Fed say, well, we don't
+[ 29.8 min] want your forecast. They don't want your dot. We just want your reaction function. Part of me here is
+[ 29.8 min] the what we really want is your forecast and what we really want is your dot. In terms of reaction
+[ 29.9 min] function, let me sort of disabuse people of a question that may or may not be real and be out there.
+[ 30.1 min] Any central banker, especially a central banker where the labor markets are more or less
+[ 30.2 min] at equilibrium. Any central banker when he or she sees underlying inflation moving higher,
+[ 30.3 min] he or she is more inclined to tighten policy. Again, when you've achieved the other side of your mandate
+[ 30.4 min] and you see underlying inflation falling, he's more inclined to loosen policy. That's my reaction
+[ 30.6 min] function and I don't suspect it will cause people to not continue to pry for more because the truth is
+[ 30.7 min] for a very long time in a lot of countries, coming out of the 2008 crisis, we're in crisis mode,
+[ 30.8 min] we were purposefully providing a lot of information, trying to provide a lot of assurance,
+[ 30.9 min] trying to tell people exactly what we're going to do. Offering forward guidance with clarity as
+[ 31.0 min] if we're tying our own hands behind our back. When crisis mode, that strikes me as a very prudent
+[ 31.1 min] policy. But in more benign conditions, it strikes me as worth revisiting. But markets and market
+[ 31.2 min] participants and reporters have learned to devour all that information. So I take seriously that
+[ 31.3 min] the pull back of forward guidance requires some transition. Reform isn't easy, but our general
+[ 31.5 min] judgment is going to help us make better decisions and in so doing satisfy our agreement.
+[ 31.7 min] Thank you. When you talk about the 2% inflation target, what measure are you relying on?
+[ 31.8 min] So I'll give two answers. First, let me give the proper standard answer. The Federal Reserve every
+[ 32.0 min] January outlines a statement of purposes and strategy. And in that strategy document, which I believe
+[ 32.1 min] was dated January of this year, it describes a measure of PC inflation as the objective function
+[ 32.2 min] there. I have enough of my, so that's our number. We're sticking with it. Who knows come after next
+[ 32.4 min] January? What we might say about strategy? I suspect the task forces might have something to add.
+[ 32.5 min] But I'll say this, some version of the Lucas critique, some version of good-hards law and
+[ 32.6 min] economics should remind us that when we talk about measures of inflation or something else,
+[ 32.7 min] and we describe those measures as being consistent with our objectives, we might make them such that
+[ 32.8 min] they're not very good measures or very good objectives. Broadly, if you said to me standing in front
+[ 32.9 min] of you, I abide fully by the strategy document. We're going to deliver 2% inflation and not a whisper
+[ 33.0 min] more. But to achieve that, I'm looking at a broader set of inflation data than PCE. So without sort of
+[ 33.2 min] fully revealing my cards, I'm trying to understand like my colleagues what's the underlying,
+[ 33.3 min] generalized change in prices that are happening in the economy. It is not a perfect science.
+[ 33.4 min] I might have said 42 days ago, I've got a task course for that. But we have a data project that's
+[ 33.5 min] trying to look and see whether we can't separate the noise from the signal. And so if you would hear
+[ 33.6 min] a message from me, yes, I care about what the PCE prints are. I care about what the contributions
+[ 33.7 min] are from CPI and everything else. But my lens is broader than that even though the remit is quite narrow.
+[ 34.0 min] Michael McKee from Bloomberg Radio and Television, I'm struggling a little bit with some of what
+[ 34.1 min] you've said today. And maybe you can help clarify this. You've said over and over again that your
+[ 34.2 min] job is to bring down prices to get prices stable to hit your target and that you will hit your target.
+[ 34.3 min] The market says you're not there yet because they've raised rates. But all you've talked about today
+[ 34.4 min] is talking about it. And it's not like members of the committee weren't there before you talking about
+[ 34.5 min] it. So I guess what the American people might be asking is, what are you waiting for?
+[ 34.7 min] So believe it or not, this press conference is not all I've done today. We have spent an
+[ 34.8 min] an ordinary amount of time in the last two days, two weeks looking at our monetary policy strategy
+[ 34.9 min] evaluating our tools, thinking hard about the sources of data that we have at our disposal
+[ 35.0 min] and we wish we had. We've also thought hard about the period ahead. What among these questions will
+[ 35.1 min] be answered with more clarity, certainly not certainty? So the decision we made today, the discussion
+[ 35.2 min] we had in that room was the farthest thing from inertia I can imagine. As a point estimate at this
+[ 35.4 min] very moment in a choice between two alternatives, you heard the results of it. But I would tell you that
+[ 35.5 min] this discussion was far more robust and are thinking about how best to achieve that target is
+[ 35.6 min] advanced and over the coming months I expected to be advanced much more significantly. If you were to
+[ 35.7 min] sort of, if I were to steal a follow-up question, I won't let you, you won't be giving it up. If I
+[ 35.8 min] were to steal a follow-up question, well, what's the world think about what you've done? I would again
+[ 35.9 min] reiterate, what we do isn't just about what we say, it's not just about what we do, we're in the
+[ 36.0 min] performance business. So if I look at the Treasury curve, if I look at the dollar, if I look at a lot
+[ 36.2 min] of things that are internals inside of financial markets, I think what they're broadly saying is that
+[ 36.3 min] this committee does own it, has the credibility to deliver it, and they believe, like I do, that we
+[ 36.4 min] will. But I don't want to leave you with a misimpression, we've got no magic wand. This isn't
+[ 36.5 min] something that we're going to be able to carry out in days or weeks, but we're going to deliver on
+[ 36.6 min] the responsibility that Congress gave us, and today's meeting and the preparation for today's meeting
+[ 36.7 min] was an important step towards that destination. I'd like to follow-up on the task forces as well,
+[ 36.8 min] and ask what vetting did you do of the people that you appointed to the task forces? In particular,
+[ 36.9 min] given Mark Andreessen's substantial political spending, $25 million in just the past year to
+[ 37.0 min] back candidates who oppose stricter AI regulation, how can the public be confident that a committee
+[ 37.1 min] co-chairs will provide an independent assessment of AI's economic effects rather than
+[ 37.2 min] one aligned with the interests of the AI industry? Yes, so I selected 15
+[ 37.3 min] incredible subject market, subject matter experts to tackle five of the most important questions
+[ 37.5 min] that if we get the answers right, we're going to do a far better job in delivering, and if we get
+[ 37.6 min] the answers wrong, we have a problem. The comfort that I can give you and your listeners is
+[ 37.6 min] worth a decision-makers. The chairman of the board of the Federal Reserve and the members of the board
+[ 37.8 min] and the FOMC, we will be the consumers of the outputs from five different committees.
+[ 37.9 min] The judgments we're making will be informed by, but not at all determined by these outside groups.
+[ 38.0 min] My theory of the case in establishing the task forces were to pick people with extraordinary talent,
+[ 38.2 min] depth of expertise, and a divergence of views inside every committee. So they too can have a family
+[ 38.3 min] fight. This is not outsourcing to people that aren't known and haven't been vetted. This is seeing
+[ 38.4 min] whether new ideas can catalyze a broader, better, more informed discussion inside the room,
+[ 38.5 min] and I'm very confident that we're able to do that. I am impressed by the credentials of these 15
+[ 38.6 min] people, and full disclosure, I've known almost all of them for a very long time, and I think they're
+[ 38.7 min] going to give their best views on the subject, but ultimately these are decisions we're going to make
+[ 38.8 min] and we're accountable to our oversight committees and to the remit congress gave us to deliver.
+[ 39.0 min] Hi, Anne Saphir with Reuters, nice to see you again. So I need a little help here too. You said
+[ 39.1 min] repeatedly you have no tolerance for inflation, and yet we are seeing above target inflation
+[ 39.3 min] repeatedly for five years, and through your term so far ensure you have no magic wand,
+[ 39.4 min] but you have not taken action. You just gave us a little peek at your reaction function as well.
+[ 39.5 min] You said that if underlying inflation is rising, that you would tend to think that you might need
+[ 39.6 min] to tighten. And with the exception of the most recent inflation print, that is what we've been seeing.
+[ 39.7 min] So could you explain what you mean by no tolerance for inflation and what you plan to do about it?
+[ 39.8 min] Sure, so Anne, I hear from you what I hear more broadly from households and businesses,
+[ 40.0 min] impatience, deliver it already. This is not an excuse, this is a fact. This FOMC, this board has
+[ 40.1 min] been in business for eight and a half weeks. The impatience that households and businesses feel
+[ 40.3 min] have been going on for 63 months. We are on the job, we will deliver, we are focused like a laser
+[ 40.4 min] on making sure we can do it, but the suggestion that we're going to be able to do it with our
+[ 40.5 min] magic wand is one I want to disabuse you and everyone else of, but the discussion last two days give me
+[ 40.7 min] more confidence even than I had eight and a half weeks ago. This team that we have at the FOMC,
+[ 40.7 min] the support that we have from board staff and the new hard questions we're asking. We need to
+[ 40.8 min] resolve those and as we resolve those questions, get smarter on those, we're going to deliver on the
+[ 40.9 min] remit. You don't have to take my word for it. If you look broadly at market prices, they are certainly
+[ 41.1 min] not saying all clear, but they are working in concert to keep us on our toes and they have tightened
+[ 41.2 min] financial conditions in this intermeeting period. That has provided us some comfort that we've
+[ 41.4 min] got the ability and capability to deliver. Is your read or your faith in markets ability to make
+[ 41.6 min] a judgment and then you take signal from that judgment? How does that affect you when you come up on
+[ 41.8 min] the September meeting and markets are seeing a near 100% chance of a rate hike? As they see now,
+[ 42.0 min] how does that feed into your decision-making and your thinking?
+[ 42.0 min] So we're not going to be constrained by market prices. We're not going to be constrained or take
+[ 42.2 min] verbatim from what the market's doing, but I think it's useful and to understand that markets can be a
+[ 42.3 min] very good source of information, not a determinative source, not a perfect source, but if we're trying to
+[ 42.4 min] land the plane and deliver 2% inflation. We take a very useful source of information and we get it
+[ 42.6 min] all fogged up by giving it our own forecast, by providing rolling commentary. I can assure you that
+[ 42.7 min] we're going to have less information, less ability to land the plane successfully and deliver price
+[ 42.8 min] stability. We're just trying to make sure that that source of information is as direct and unfiltered
+[ 42.8 min] as possible. It isn't to the exclusion of data sources and opinions and other surveys, but if you're
+[ 42.9 min] hearing from me, we wanted to make sure we were getting a better source of information, I think in a
+[ 43.0 min] relatively short time we are. We could have Brian Chung for the last question.
+[ 43.1 min] Hello Chairman Worsh. Brian Chung with NBC News. So you said you'd be open to having press conferences
+[ 43.2 min] when there's news to make, so today no change to rates, no forward guidance. For the average
+[ 43.3 min] household I guess, what was the news today? So apparently it was news that I had a press conference.
+[ 43.5 min] Let me just see if I can offer some clarity on that. Between now and year end, my predecessors and
+[ 43.6 min] Federal Reserve committed to press conferences this year, I'm committing to press conferences this year.
+[ 43.7 min] That might be news to the people in this room and of no particular interest to your viewers and
+[ 43.8 min] your readers back at home. What I can offer as assurance is that the feds on the case,
+[ 43.9 min] that this fed chairman feels better about this board and this committee's ability to deliver
+[ 44.1 min] than I did when I showed up here on the first day and I showed up pretty confident.
+[ 44.1 min] I've been heartened by the reception that I received. No doubt in some of your commentaries today,
+[ 44.2 min] you'll talk about a divided Federal Reserve. That's not the feeling I felt the last couple of days
+[ 44.3 min] and the couple of days before it. What I felt was a group of professionals, all the different
+[ 44.4 min] perspectives, different views, different judgments, but eager to roll up their sleeves and have a family
+[ 44.5 min] fight. An eager to reform the way in which the fed does policy. A keenness and open-mindedness and
+[ 44.7 min] curiosity about that. We have a far better chance to deliver on the remit that Congress gave us.
+[ 44.8 min] I want to leave you with the optimism of a new central banker that we're committed as ever to
+[ 44.9 min] deliver and to offer an assurance we will. Thank you all very much.
