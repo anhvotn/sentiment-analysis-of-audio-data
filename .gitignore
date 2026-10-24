@@ -1,0 +1,19 @@
+# Course material (copyrighted, not ours to publish)
+*.pdf
+
+# Large audio files - recreated by collect_fed_audio.py and segment_audio.py
+audio/*.mp3
+bars/*/
+*.wav
+*.part
+*.part.wav
+*.json.part
+
+# SPY price data and backtest files containing prices - check the provider's terms
+spy*.csv
+*/backtest_trades.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
