@@ -2,8 +2,6 @@
 
 A pipeline that turns the spoken words of Federal Reserve press conferences into trading signals for SPY. It downloads the audio, cuts it into overlapping one-minute "audio bars", transcribes them with Whisper, scores each bar with FinBERT, and generates buy/sell signals that can be backtested on intraday SPY prices.
 
-It follows the pipeline taught in a Coursera course on using LLMs for sentiment analysis in trading, with a few practical changes described below. The repository contains my own implementation and results; no course material is included.
-
 ---
 
 ## Pipeline
@@ -103,19 +101,19 @@ Useful options:
 
 **Not included, but recreated by the scripts:** the MP3s (about 250 MB) and the WAV audio bars (about 790 MB).
 
-**Not included, and needed for the backtest:** intraday SPY prices for each press conference, roughly 14:30–15:30 New York time. Provide a CSV with a timestamp column and a close or price column, at 30-second intervals as in the course, or finer. Coarser data such as 1-minute bars works, but only approximately; the script warns about it. Free sources rarely cover more than the last month at this resolution; a broker's historical data or a pay-per-use data vendor are the practical options. Check the provider's terms before publishing any prices.
+**Not included, and needed for the backtest:** intraday SPY prices for each press conference, roughly 14:30–15:30 New York time. Provide a CSV with a timestamp column and a close or price column, at 30-second intervals or finer. Coarser data such as 1-minute bars works, but only approximately; the script warns about it. Free sources rarely cover more than the last month at this resolution; a broker's historical data or a pay-per-use data vendor are the practical options. Check the provider's terms before publishing any prices.
 
 ---
 
 ## Design choices
 
-Where this implementation differs from, or adds to, the course:
+Practical choices in this implementation:
 
 - **yt-dlp instead of pytube.** pytube is no longer maintained and often fails with current YouTube.
 - **Transcribe once, then split.** Each full recording is transcribed once, with word timestamps, and the words are assigned to bars by their midpoint. The bars are the same as when each bar is transcribed separately, but it is about twice as fast and more accurate, because Whisper hears whole sentences.
 - **faster-whisper.** The same Whisper base model, running several times faster on a CPU. Audio is decoded with ffmpeg, which avoids a version conflict between faster-whisper and recent PyAV releases.
-- **Signal rules not specified in the course** (all adjustable): 80th/20th percentile thresholds, flat between them, positions held for one 30-second step, trades at the first :00 or :30 after the embargo, 0.5 bp cost per unit traded.
-- **Two threshold modes.** `insample` uses the whole sample, as in the course, which includes look-ahead. `expanding` uses only earlier meetings, which is what could actually have been traded.
+- **Signal rules** (all adjustable): 80th/20th percentile thresholds, flat between them, positions held for one 30-second step, trades at the first :00 or :30 after the embargo, 0.5 bp cost per unit traded.
+- **Two threshold modes.** `insample` uses the whole sample, which includes look-ahead. `expanding` uses only earlier meetings, which is what could actually have been traded.
 - **Clock times** assume each recording starts at the scheduled 14:30 ET. In this sample, speech begins 5–10 seconds into every recording. A `start_offset_sec` column in `audio/metadata.csv` corrects a late start.
 
 ---
